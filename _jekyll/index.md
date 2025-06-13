@@ -158,22 +158,21 @@ links:
     }
 </style>
 
-- [应用·Application](./application/)
-  - [Git]
-- [软件·Software]
-- 框架·Framework
-  - [Laravel]
-- 模板·Template
-- 范例·Example
-- 推荐·Awesome
-- 规范·Standard
 - [算法·Algorithm](./algorithm/)
-- 试题·Question
-- 接口·OpenApi
+- [应用·Application](./application/)
 - 配置·Config
-- 脚本·Script
-- 拓展·Extension
 - [依赖·Dependency](./dependency/)
+- 范例·Example
+- 拓展·Extension
+- 框架·Framework
+- [机制·Mechanism](./mechanism/)
+- [模块·Module](./modules/)
+- 脚本·Script
+- [软件·Software]
+- 规范·Standard
+- 模板·Template
+- 接口·OpenApi
+- [实践·Practice](./practices/)
 - [编程·Program](./program/)
   - [HTML]
   - [CSS]
@@ -184,12 +183,17 @@ links:
   - [PHP]
   - [Composer]
   - [Ruby]
-- [模块·Module](./modules/)
-- [机制·Mechanism](./mechanism/)
-- [实践·Practice](./practices/)
+  - ...
 - [项目·Project]
+  - ...
 
-<!-- - [速查·CheatSheet](./cheatsheet/) -->
+<!--  -->
+
+- 推荐·Awesome
+- 速查·CheatSheet
+- 试题·Question
+
+<!-- - 简历·Vitae -->
 
 <!--
 <div class="container d-none">
