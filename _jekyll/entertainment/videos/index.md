@@ -1,7 +1,7 @@
 - 电影 `Movie`
 - 剧集 `Episode`
 - 动漫 `Comic`
-- 纪录片 `Documentary`
+- 纪录 `Documentary`
 - 综艺 `Variety`
 
 ## 电影
