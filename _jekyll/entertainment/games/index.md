@@ -10,6 +10,10 @@ title: 游戏·Games
 - Rusty's_Retirement/锈崽的退休生活
 - 虐杀原型
 - 银河破裂者
+- 帝国时代
+- 红警
+- factorio
+- 植物大战僵尸
 
 ## 独占
 

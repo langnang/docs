@@ -158,24 +158,26 @@ links:
     }
 </style>
 
-- [算法·Algorithm](./algorithm/)
-- [应用·Application](./application/)
+- [算法·Algorithm](./algorithm/index.md)
+- [应用·Application](./applications/index.md)
 - 配置·Config
-- [依赖·Dependency](./dependency/)
+- [依赖·Dependency](./dependencies/index.md)
 - 范例·Example
 - 拓展·Extension
 - 框架·Framework
   - composer.laravel
   - composer.lumen
-- [机制·Mechanism](./mechanism/)
-- [模块·Module](./modules/)
+- [机制·Mechanism](./mechanism/index.md)
+- [模块·Module](./modules/index.md)
 - 脚本·Script
 - [软件·Software]
 - 规范·Standard
 - 模板·Template
 - 接口·OpenApi
-- [实践·Practice](./practices/)
-- [编程·Program](./program/)
+- [实践·Practice](./practices/index.md)
+- [编程·Program](./program/index.md)
+  - [Batch]
+  - [Shell]
   - [HTML]
   - [CSS]
   - [JavaScript]
@@ -193,7 +195,7 @@ links:
 
 - 推荐·Awesome
 - 速查·CheatSheet
-- 试题·Question
+- [试题·Question](./guide/questions.md)
 
 <!-- - 简历·Vitae -->
 
