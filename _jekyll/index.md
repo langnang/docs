@@ -165,6 +165,8 @@ links:
 - 范例·Example
 - 拓展·Extension
 - 框架·Framework
+  - composer.laravel
+  - composer.lumen
 - [机制·Mechanism](./mechanism/)
 - [模块·Module](./modules/)
 - 脚本·Script
