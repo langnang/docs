@@ -99,7 +99,6 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
   - https://www.winpcap.org/
 - Wireshark: 网络封包分析软件
 - Worktile
-- WPS Office: 办公软件套装
 - Zotera: 文献管理工具
 
 ## 聊天工具
@@ -120,7 +119,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 
 ## 办公软件
 
-- WPS Office
+- WPS Office: 办公软件套装
 - 百度网盘
 - Microsoft Office
 - rustdesk

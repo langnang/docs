@@ -1,27 +1,29 @@
 ---
-title: 速查（CheatSheet）
+title: 速查·CheatSheet
 ---
 
-## HTML
+# 速查·CheatSheet
 
+## Application
+
+- [Git](./../applications/Git/cheatsheet.md)
+
+## Framework
+
+- Composer
+  - Laravel
+  - Lumen
+
+## Program
+
+- Batch
 - HTML
 - CSS
 - JavaScript
-
-### NPM
-
 - Sass
 - NodeJs
 - jQuery
-
-## PHP
-
 - PHP
-
-### Composer
-
 - Laravel
-
-## Application
 
 ## Software

@@ -4,6 +4,7 @@ title: 试题·Question
 
 # 试题·Question
 
+- [Algorithm](./../algorithm/question.md)
 - Program
   - [HTML](./../program/html/question.md)
   - [CSS](./../program/css/question.md)

@@ -158,45 +158,50 @@ links:
     }
 </style>
 
+# Documents
+
 - [算法·Algorithm](./algorithm/index.md)
 - [应用·Application](./applications/index.md)
-- 配置·Config
 - 范例·Example
-- 拓展·Extension
 - 框架·Framework
   - composer.laravel
   - composer.lumen
 - 脚本·Script
-- [软件·Software]
+- 软件·Software
+  - WordPress
+  - Typecho
 - 规范·Standard
 - 模板·Template
 - 接口·OpenApi
 - [实践·Practice](./practices/index.md)
 - [编程·Program](./program/index.md)
-  - [Batch]
-  - [Shell]
-  - [HTML]
-  - [CSS]
-  - [JavaScript]
-  - [Node]
-  - [Vue]
-  - [React]
-  - [PHP]
-  - [Composer]
-  - [Ruby]
+  - [Batch](./program/batch/index.md)
+  - [Shell](./program/shell/index.md)
+  - [HTML](./program/html/index.md)
+  - [CSS](./program/css/index.md)
+  - [ECMAScript](./program/ecmascript/index.md)
+  - [JavaScript](./program/javascript/index.md)
+  - [Node](./program/node/index.md)
+  - [Vue](./program/node.vue/index.md)
+  - [React](./program/node.react/index.md)
+  - [PHP](./program/php/index.md)
+  - Composer
+  - Ruby
   - ...
-- [项目·Project]
+- 项目·Project
   - ...
 
 <!--  -->
 
 ---
 
-- [依赖·Dependency](./guide/dependencies.md)
-- [机制·Mechanism](./guide/mechanisms.md)
-- [模块·Module](./guide/modules.md)
 - [推荐·Awesome](./guide/awesome.md)
 - [速查·CheatSheet](./guide/cheatsheet.md)
+- [配置·Config](./guide/configs.md)
+- [依赖·Dependency](./guide/dependencies.md)
+- 拓展·Extension
+- [机制·Mechanism](./guide/mechanisms.md)
+- [模块·Module](./guide/modules.md)
 - [试题·Question](./guide/questions.md)
 
 <!-- - 简历·Vitae -->
