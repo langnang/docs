@@ -1,6 +1,7 @@
 ---
-title: 娱乐·Entertainment
 ---
+
+# 娱乐·Entertainment
 
 - [音频·Audio](./audios/)
 - [游戏·Game](./games/)

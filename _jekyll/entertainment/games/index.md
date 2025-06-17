@@ -1,6 +1,7 @@
 ---
-title: 游戏·Games
 ---
+
+# 游戏·Games
 
 ## 单机
 

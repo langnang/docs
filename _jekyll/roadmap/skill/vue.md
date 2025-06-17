@@ -1,7 +1,7 @@
 ---
-title: Vue Developer
 ---
 
+# Vue Developer
 
 1
 Vue.js

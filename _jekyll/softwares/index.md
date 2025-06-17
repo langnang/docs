@@ -1,5 +1,4 @@
 ---
-title: 软件·Software
 ---
 
 # 软件·Software

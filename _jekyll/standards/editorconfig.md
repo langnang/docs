@@ -1,7 +1,7 @@
 ---
-title: EditorConfig
 ---
 
+# Standard.EditorConfig
 
 ```ini
 # /.editorconfig

@@ -1,6 +1,7 @@
 ---
-title: 小说·Ebooks
 ---
+
+# 小说·Ebooks
 
 ## 连载
 

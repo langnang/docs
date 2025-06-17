@@ -1,12 +1,10 @@
 ---
-title: Color（色彩）
-
 named:
   - name: Blue
     nameCn: 蓝色
-    rgb: 
+    rgb:
 safe:
-  - '00'
+  - "00"
   - 33
   - 66
   - 99
@@ -15,6 +13,8 @@ safe:
 unnamed:
   - 354141
 ---
+
+# 色彩·Color
 
 ## Named
 
@@ -30,14 +30,14 @@ gray-20: ededf0
 light-gray: F0F0F4
 primary-text: 15141A
 secondary-text: 5B5B66
-primary: 007bff 
-info: 17a2b8 
-success: 28a745 
-warning: ffc107 
-danger: dc3545 
-dark: 343a40 
-secondary: 6c757d 
-light: f8f9fa 
+primary: 007bff
+info: 17a2b8
+success: 28a745
+warning: ffc107
+danger: dc3545
+dark: 343a40
+secondary: 6c757d
+light: f8f9fa
 purple: d3dce6
 purple-light: e5e9f2
 purple-dark: 99a9bf
@@ -55,17 +55,17 @@ purple-dark: 99a9bf
 
 {% assign cor = page.safe %}
 {% for r in cor %}
-  {% for g in cor %}
-    {% for b in cor %}
-      <div class="col p-2">
-        <div class="card" style="background:#{{r}}{{g}}{{b}}">
-          <div class="card-body p-2">
-            #{{r}}{{g}}{{b}}
-          </div>
-        </div>
-      </div>
-    {% endfor %}
-  {% endfor %}
+{% for g in cor %}
+{% for b in cor %}
+
+<div class="col p-2">
+<div class="card" style="background:#{{r}}{{g}}{{b}}">
+<div class="card-body p-2"> #{{r}}{{g}}{{b}}
+</div>
+</div>
+</div>
+{% endfor %}
+{% endfor %}
 {% endfor %}
 
 ## Unnamed

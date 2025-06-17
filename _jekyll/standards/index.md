@@ -1,6 +1,7 @@
 ---
-title: Standards（标准规范）
 ---
+
+# 标准·Standard
 
 - [Color](./color.md)
 - [EditorConfig](./editorconfig.md)
