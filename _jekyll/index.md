@@ -161,14 +161,11 @@ links:
 - [算法·Algorithm](./algorithm/index.md)
 - [应用·Application](./applications/index.md)
 - 配置·Config
-- [依赖·Dependency](./dependencies/index.md)
 - 范例·Example
 - 拓展·Extension
 - 框架·Framework
   - composer.laravel
   - composer.lumen
-- [机制·Mechanism](./mechanism/index.md)
-- [模块·Module](./modules/index.md)
 - 脚本·Script
 - [软件·Software]
 - 规范·Standard
@@ -193,8 +190,13 @@ links:
 
 <!--  -->
 
-- 推荐·Awesome
-- 速查·CheatSheet
+---
+
+- [依赖·Dependency](./guide/dependencies.md)
+- [机制·Mechanism](./guide/mechanisms.md)
+- [模块·Module](./guide/modules.md)
+- [推荐·Awesome](./guide/awesome.md)
+- [速查·CheatSheet](./guide/cheatsheet.md)
 - [试题·Question](./guide/questions.md)
 
 <!-- - 简历·Vitae -->

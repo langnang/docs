@@ -200,7 +200,6 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - python
 - composer
 - nodejs
-- Visual Studio Code
 - ruby
 - HubilderX
 - JetBrains WebStorm
@@ -212,8 +211,11 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - msys
 - Docker Desktop
 - laragon
+- Vmr
 
 ### 代码编辑
+
+- Visual Studio Code
 
 ## 虚拟模拟
 
