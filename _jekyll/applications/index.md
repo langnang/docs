@@ -2,7 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: 应用·Application
 description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,iOS等）上的应用程序
 ---
 

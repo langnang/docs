@@ -1,6 +1,7 @@
 ---
-title: 算法·Algorithm
 ---
+
+# 算法·Algorithm
 
 ## 排序·Sorting
 
