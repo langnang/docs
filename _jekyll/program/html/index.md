@@ -1,8 +1,7 @@
 ---
-title: HTML
 ---
 
-# HTML
+# Program.HTML
 
 ## 入门
 
@@ -16,4 +15,4 @@ title: HTML
 
 ## 参考
 
-- ![](https://www.w3school.com.cn/ui2019/logo-16-red.png) https://www.w3school.com.cn/html/index.asp
+- ![](https://www.w3school.com.cn/ui2019/logo-16-red.png) [HTML 教程 - W3school](https://www.w3school.com.cn/html/index.asp)

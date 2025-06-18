@@ -171,7 +171,7 @@ links:
   - WordPress
   - Typecho
 - 规范·Standard
-- 模板·Template
+- [模板·Template](./guide/templates.md)
 - 接口·OpenApi
 - [实践·Practice](./practices/index.md)
 - [编程·Program](./program/index.md)

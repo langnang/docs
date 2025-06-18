@@ -40,6 +40,24 @@
 </div>
 {% endif %}
 
+### 动作
+
+### 喜剧
+
+### 爱情
+
+### 科幻
+
+### 恐怖
+
+### 剧情
+
+### 战争
+
+### 记录
+
+### 动漫
+
 ## 电视剧
 
 {% if site.data.entertainment.video.teleplay %}
