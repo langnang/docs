@@ -166,7 +166,7 @@ links:
 - 框架·Framework
   - composer.laravel
   - composer.lumen
-- 脚本·Script
+- [脚本·Script](./guide/scripts.md)
 - 软件·Software
   - WordPress
   - Typecho
