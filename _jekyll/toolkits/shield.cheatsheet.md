@@ -10,25 +10,42 @@ brand: https://shields.io/img/favicon.ico
     </a>
 </div>
 
+# Utils.Shield.CheatSheet
+
 ```yml
-baseUrl: {{site.siteUrl.shields}}
+baseUrl: https://img.shields.io/
+query-params:
+  style: string // flat, flat-square, plastic, for-the-badge, social
+  logo: string // appveyor, ...
+  logoColor: string // violet, ...
+  logoSize: string // auto, ...
+  label: string // healthiness, ...
+  labelColor: string // abcdef, ...
+  color: string // fedcba, ...
+  cacheSeconds: string // 3600, ...
+  link: string[]
 ```
+
+- https://shields.io/badges
 
 ## Core
 
 ### Static Badge
->
-> 静态的徽章
 
 ```yml
 [GET] /badge/:badgeContent
 ```
+
+- ![](https://img.shields.io/badge/any_text-you_like-blue): `https://img.shields.io/badge/any_text-you_like-blue`
+- ![](https://img.shields.io/badge/just%20the%20message-8A2BE2): `https://img.shields.io/badge/just%20the%20message-8A2BE2`
 
 ### Dynamic JSON Badge
 
 ```yml
 [GET] /badge/dynamic/json
 ```
+
+- ![](https://img.shields.io/badge/dynamic/json?url=https://github.com/badges/shields/raw/master/package.json&query=$.name): `https://img.shields.io/badge/dynamic/json?url=https://github.com/badges/shields/raw/master/package.json&query=$.name`
 
 ### Dynamic TOML Badge
 
@@ -107,7 +124,7 @@ baseUrl: {{site.siteUrl.shields}}
 ```
 
 ### GitHub commit activity (branch)
->
+
 > GitHub 提交活动(分支)
 
 ```yml
@@ -1367,7 +1384,7 @@ interval:
 [GET] /packagist/:interval/:user/:repo
 
 interval:
-  - dd 
+  - dd
   - dm
   - dt
 ```
