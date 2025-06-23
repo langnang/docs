@@ -204,6 +204,7 @@ links:
 - 拓展·Extension
 - [机制·Mechanism](./guide/mechanisms.md)
 - [模块·Module](./guide/modules.md)
+- [技巧·Trick](./guide/tricks.md)
 - [试题·Question](./guide/questions.md)
 
 <!-- - 简历·Vitae -->
