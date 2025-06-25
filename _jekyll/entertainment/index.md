@@ -11,3 +11,5 @@
 - [小说·Ebook](./ebooks/index.md)
 - [食谱·Recipe](./recipes/index.md)
 - [护理·Nurse](./nurses/index.md)
+- 故事·Story
+- 资讯·News
