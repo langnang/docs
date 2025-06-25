@@ -1,92 +1,95 @@
 ---
-title: Laravel
 ---
 
+# Composer.Laravel8
+
+- https://learnku.com/docs/laravel/8.x
+
 - 前言
-  - 发行说明
-  - 升级说明
-  - 贡献导引
+  - 发行说明·releases
+  - 升级说明·upgrade
+  - 贡献导引·contributions
 - 入门指南
-  - [安装](./installation.md)
-  - 配置信息
-  - [文件夹结构（structure）](./structure.md)
+  - [安装·installation](./installation.md)
+  - 配置信息·configuration
+  - [文件夹结构·structure](./structure.md)
   - Homestead
   - Valet
-  - 部署
+  - 部署·deployment
 - 核心架构
-  - 请求周期
-  - 服务容器
-  - 服务提供者
-  - Facades
-  - Contracts
+  - 请求周期·lifecycle
+  - 服务容器·container
+  - 服务提供者·providers
+  - 底层代理·Facades
+  - 契约·Contracts
 - 基础功能
-  - 路由
-  - 中间件
-  - CSRF 保护
-  - 控制器
-  - 请求
-  - 响应
-  - 视图
-  - 生成 URL
+  - 路由·routing
+  - 中间件·middleware
+  - CSRF 保护·csrf
+  - 控制器·controllers
+  - 请求·requests
+  - 响应·responses
+  - 视图·views
+  - 生成 URL·urls
   - Session
-  - 表单验证
-  - 错误
-  - 日志
+  - 表单验证·validation
+  - 错误·errors
+  - 日志·logging
 - 前端开发
-  - Blade 模板
-  - 本地化
-  - 前端脚手架
-  - 编辑资源 Mix
+  - Blade 模板·blade
+  - 本地化·localization
+  - 前端脚手架·frontend
+  - 编辑资源 Mix·mix
 - 安全相关
-  - 用户认证
-  - 用户授权
-  - Email 认证
-  - 加密解密
-  - 哈希
-  - 重置密码
+  - 用户认证·authentication
+  - 用户授权·authorization
+  - Email 认证·verification
+  - 加密解密·encryption
+  - 哈希·hashing
+  - 重置密码·passwords
 - 综合话题
-  - Artisan 命令行
-  - 广播系统
-  - 缓存系统
-  - 集合
-  - 事件系统
-  - 文件存储
-  - 辅助函数
-  - HTTP 客户端
-  - 邮件发送
-  - 消息通知
-  - 扩展包开发
-  - 队列
-  - 任务调度
+  - Artisan 命令行·artisan
+  - 广播系统·broadcasting
+  - 缓存系统·cache
+  - 集合·collections
+  - 事件系统·events
+  - 文件存储·
+  - 辅助函数·
+  - HTTP 客户端·
+  - 邮件发送·
+  - 消息通知·
+  - 扩展包开发·
+  - 队列·
+  - 任务调度·
 - 数据库
-  - 快速入门
-  - 查询构造器
-  - 分页
-  - 数据库迁移
-  - 数据填充
+  - 快速入门·
+  - 查询构造器·
+  - 分页·
+  - 数据库迁移·
+  - 数据填充·
   - Redis
 - Eloquent ORM
-  - 快速入门
-  - 模型关联
-  - Eloquent 集合
-  - 修改器
-  - API 资源
-  - 序列化
+  - 快速入门·
+  - 模型关联·
+  - Eloquent 集合·
+  - 修改器·
+  - API 资源·
+  - 序列化·
 - 测试相关
-  - 快速入门
-  - HTTP 测试
-  - 命令行测试
-  - Dusk 浏览器测试
-  - 数据库测试
-  - 测试模拟器 Mocking
+  - 快速入门·
+  - HTTP 测试·
+  - 命令行测试·
+  - Dusk 浏览器测试·
+  - 数据库测试·
+  - 测试模拟器 Mocking·
 - 官方扩展包
-  - Envoy 部署工具
-  - Horizon 队列管理
-  - Passport OAuth 认证
-  - Sanctum 认证
-  - Scout 全文搜索
-  - Socialite 社会化登录
-  - Telescope 调试工具
+  - Envoy 部署工具·
+  - Horizon 队列管理·
+  - Passport OAuth 认证·
+  - Sanctum 认证·
+  - Scout 全文搜索·
+  - Socialite 社会化登录·
+  - Telescope 调试工具·
   - Laravel Sail
 
 ## Basic
@@ -107,7 +110,7 @@ composer create-project --prefer-dist laravel/laravel blog
 
 ```sh
 laravel
-├─.github     
+├─.github
 │  └─workflows
 ├─app     # 包含你的程序的核心代码。我们很快会详细地研究这个目录；不管怎样，应用程序中几乎所有的类都将位于此目录中。
 │  ├─Admin
@@ -115,8 +118,8 @@ laravel
 │  │  └─Metrics
 │  │      └─Examples
 │  ├─Console
-│  ├─Exceptions    
-│  ├─Helpers       
+│  ├─Exceptions
+│  ├─Helpers
 │  ├─Http
 │  │  ├─Controllers
 │  │  └─Middleware

@@ -29,7 +29,8 @@ dscription: 指用于承载一个系统必要功能的基础要素的集合
 
 ## Composer
 
-- composer.Laravel8
+- [composer.laravel8](./composer.laravel8/index.md)
+- [composer.laravel8-modules](./composer.laravel8-modules/index.md)
 - composer.Lumen8
 
 ## ASP.Net Core
