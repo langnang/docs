@@ -166,7 +166,7 @@ links:
 - [框架·Framework](./frameworks/index.md)
   - ...
 - [脚本·Script](./guide/scripts.md)
-- 软件·Software
+- [软件·Software](./softwares/index.md)
   - ...
 - 规范·Standard
 - [模板·Template](./guide/templates.md)
@@ -205,6 +205,7 @@ links:
 - [片段·Snippet](./guide/snippets.md)
 - [技巧·Trick](./guide/tricks.md)
 - [试题·Question](./guide/questions.md)
+- [娱乐·Entertainment](./entertainment/index.md)
 
 <!-- - 简历·Vitae -->
 
@@ -257,4 +258,4 @@ docs
 ```
 -->
 
-## 参考·Reference
+<!-- ## 参考·Reference -->
