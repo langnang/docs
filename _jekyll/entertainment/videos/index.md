@@ -1,8 +1,14 @@
+# 视频·Video
+
 - 电影 `Movie`
 - 剧集 `Episode`
 - 动漫 `Comic`
 - 纪录 `Documentary`
 - 综艺 `Variety`
+
+- https://www.bilibili.com/
+
+- https://www.66ss.org/
 
 ## 电影
 

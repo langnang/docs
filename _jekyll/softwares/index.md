@@ -7,435 +7,429 @@
 
 - [Softaculous](https://www.softaculous.com/)
 
-## 交流博客
+## 社交通讯
+
+### 交流博客 Blogs
 
 - php.typecho-v1.2 ![](https://img.shields.io/badge/blog-default)
 - php.wordpress-v6 ![](https://img.shields.io/badge/blog-default)
-  WordPress
-  Pubvana
-  Serendipity
-  Dotclear
-  Textpattern
-  b2evolution
-  HTMLy
-  Nibbleblog
-  Nucleus
-  Chyrp
-  FlatPress
-  PivotX
-  Leafpub
+- WordPress
+- Pubvana
+- Serendipity
+- Dotclear
+- Textpattern
+- b2evolution
+- HTMLy
+- Nibbleblog
+- Nucleus
+- Chyrp
+- FlatPress
+- PivotX
+- Leafpub
 
-## 社交论坛
+### 社交论坛 Forums
 
-## 分享云盘
+- phpBB
+- SMF
+- MyBB
+- AEF
+- Vanilla
+- PunBB
+- bbPress
+- FluxBB
+- XMB
+- Phorum
+- Flarum
+- ElkArte
+- FUDforum
+- miniBB
+- Carbon Forum
+- my little forum
+- TidyBB
+- TangoBB
+- Beehive
+- Unclassified NewsBoard
+- Flatboard
+
+### 社交网络 Social Networking
+
+> 在线上建立和维护个人和商业关系的活动。
+
+- pH7Builder
+- Dolphin
+- Oxwall
+- Jcow
+- HumHub
+- Etano
+- UNA
+- Family Connections
+- Hubzilla
+- GNU social
+- Elgg
+
+## 文件分享
+
+### 云盘挂载
 
 - php.oneindex ![](https://img.shields.io/badge/storage-default)
 - php.onemanager ![](https://img.shields.io/badge/storage-default)
 
 ## 导航目录
 
-## 教育学习
+## 知识教育
 
-## 问卷试题
+### 知识百科 Wikis
+
+- DokuWiki
+- PmWiki
+- WikkaWiki
+- MediaWiki
+
+### 学习教育 Educational
+
+- Moodle
+- Chamilo
+- RosarioSIS
+- Claroline
+- TCExam
+- Gibbon
+- Omeka
+- ATutor
+- Forma LMS
+- Savsoft Quiz
+- openSIS
+
+### 问卷试题 Question
+
+### 民意调研 Polls and Analytics
+
+- LimeSurvey
+- Matomo
+- LittlePoll
+- Open Web Analytics
+- Advanced Poll
+- Simple PHP Poll
+- EasyPoll
+- Logaholic
+- CJ Dynamic Poll
+- Little Software Stats
+- Framadate
 
 ## 影音媒体
 
+### 图像画廊 Image Galleries
+
+- Gallery
+- Piwigo
+- Coppermine
+- Zenphoto
+- TinyWebGallery
+- Lychee
+- 4images
+- iGalerie
+
+### 游戏 Gaming
+
+- Nuked Klan
+
+### 音乐 Music
+
+- Impleo
+- Castopod
+
+### 视频 Video
+
+- ClipBucket
+- CumulusClips
+
+## 生活娱乐
+
+## 企业管理
+
+### 资源管理 ERP
+
+- Vtiger
+- Akaunting
+- YetiForce
+- SugarCRM
+- SuiteCRM
+- FrontAccounting
+- EPESI
+- OrangeHRM
+- EspoCRM
+- EGroupware
+- X2CRM
+- Group Office
+- Zurmo
+- webERP
+- ChurchCRM
+- Tine 2.0
+- Sentrifugo
+- Zenbership
+- IceHrm
+- Jorani
+- Krayin CRM
+
+### 广告管理 Ad Management
+
+> 指对广告进行策划、制作、发布、监测和评估等全过程的管理工作。
+
+- OsClass Classifieds
+
+### 项目管理 Project Management
+
+- Feng Office
+- Rukovoditel
+- qdPM
+- Collabtive
+- dotProject
+- Mantis Bug Tracker
+- ProjectPier
+- Snipe-IT
+- Kanboard
+- The Bug Genie
+- PHProjekt
+- TaskFreak
+- SOPlanning
+- ProjeQtOr
+- ZenTao
+- phpCollab
+- Admidio
+- WebCollab
+- Traq
+- Eventum
+- Bugs
+- Manage Your Team
+- TestLink
+- Burden
+
+### 内容管理 Portals/CMS
+
+- Joomla
+- Open Real Estate
+- Concrete CMS
+- MODX
+- e107
+- Drupal Core
+- Xoops
+- CMS Made Simple
+- PHP-Fusion
+- Geeklog
+- Composr
+- Zikula
+- WebsiteBaker
+- ProcessWire
+- SilverStripe
+- PyroCMS
+- Subrion
+- Drupal CMS
+- Contao
+- Sitemagic CMS
+- ImpressPages
+- Quick.CMS
+- Redaxscript
+- PopojiCMS
+- OctoberCMS
+- Microweber
+- ImpressCMS
+- WonderCMS
+- Monstra
+- phpwcms
+- Open Business Card
+- TYPO3
+- Bludit
+- PluXml
+- SiteCake
+- Kopage
+- liveSite
+- ExpressionEngine
+- Pimcore
+- WBCE CMS
+- Bolt
+- Mahara
+- Jamroom
+- Kirby
+- Fork
+- WinterCMS
+- Pagekit
+- ClassicPress
+- Typesetter
+- CSZ CMS
+- Backdrop CMS
+- Directus
+- Fiyo CMS
+- razorCMS
+- NukeViet CMS
+- Koken
+- Atlantis CMS
+- Pluck
+- Plikli CMS
+- Croogo
+- Cotonti
+- Zenario
+- InstantCMS
+- LEPTON
+- Hotaru CMS
+- Anchor
+- CMSimple
+- SCHLIX CMS
+- appRain
+- ClipperCMS
+- GeniXCMS
+- Saurus
+- Precurio
+- Tiki Wiki CMS Groupware
+- ZwiiCMS
+- Wolf CMS
+- SofaWiki
+
+### 数据管理 DB Tools
+
+- phpMyAdmin
+- MyWebSQL
+- SIDU
+- Adminer
+- SQLiteManager
+- phpLiteAdmin
+- Vty
+
+### 文件管理 File Management
+
+- Arfooo
+- OpenDocMan
+
 ## 其它待定
 
-### Blogs
+### 日历 Calendars
 
-WordPress
-Pubvana
-Serendipity
-Dotclear
-Textpattern
-b2evolution
-HTMLy
-Nibbleblog
-Nucleus
-Chyrp
-FlatPress
-PivotX
-Leafpub
+- WebCalendar
+- Booked
+- LuxCal
+- SuperCali
+- Event Schedule
 
-### Portals/CMS
+### 电子邮件 Mails
 
-Joomla
-Open Real Estate
-Concrete CMS
-MODX
-e107
-Drupal Core
-Xoops
-CMS Made Simple
-PHP-Fusion
-Geeklog
-Composr
-Zikula
-WebsiteBaker
-ProcessWire
-SilverStripe
-PyroCMS
-Subrion
-Drupal CMS
-Contao
-Sitemagic CMS
-ImpressPages
-Quick.CMS
-Redaxscript
-PopojiCMS
-OctoberCMS
-Microweber
-ImpressCMS
-WonderCMS
-Monstra
-phpwcms
-Open Business Card
-TYPO3
-Bludit
-PluXml
-SiteCake
-Kopage
-liveSite
-ExpressionEngine
-Pimcore
-WBCE CMS
-Bolt
-Mahara
-Jamroom
-Kirby
-Fork
-WinterCMS
-Pagekit
-ClassicPress
-Typesetter
-CSZ CMS
-Backdrop CMS
-Directus
-Fiyo CMS
-razorCMS
-NukeViet CMS
-Koken
-Atlantis CMS
-Pluck
-Plikli CMS
-Croogo
-Cotonti
-Zenario
-InstantCMS
-LEPTON
-Hotaru CMS
-Anchor
-CMSimple
-SCHLIX CMS
-appRain
-ClipperCMS
-GeniXCMS
-Saurus
-Precurio
-Tiki Wiki CMS Groupware
-ZwiiCMS
-Wolf CMS
-SofaWiki
+- SquirrelMail
+- OpenNewsletter
+- Postfix Admin
 
-### Forums
+### 电子商务 E-Commerce
 
-phpBB
-SMF
-MyBB
-AEF
-Vanilla
-PunBB
-bbPress
-FluxBB
-XMB
-Phorum
-Flarum
-ElkArte
-FUDforum
-miniBB
-Carbon Forum
-my little forum
-TidyBB
-TangoBB
-Beehive
-Unclassified NewsBoard
-Flatboard
+- AbanteCart
+- WHMCS
+- ClicShopping AI
+- CE Phoenix
+- osCommerce
+- Zen Cart
+- Loaded Commerce
+- PrestaShop
+- LiteCart
+- Invoice Ninja
+- thirty bees
+- Open Source Point of Sale
+- CubeCart
+- Quick.Cart
+- Blesta
+- InvoicePlane
+- OpenCart
+- Arastta
+- AlegroCart
+- SeoToaster
+- Open eShop
+- Avactis
+- Thelia 2
+- Zeuscart
+- ClientExec
+- Bagisto
+- Logic Invoice
+- Magento
+- WhatACart
+- QloApps
+- PEEL SHOPPING
+- Maian Cart
 
-### Image Galleries
+### 访客留言 Guest Books
 
-Gallery
-Piwigo
-Coppermine
-Zenphoto
-TinyWebGallery
-Lychee
-4images
-iGalerie
+- VX Guestbook
+- RicarGBooK
+- PHP Address Book
 
-### Wikis
+### 客户支持 Customer Support
 
-DokuWiki
-PmWiki
-WikkaWiki
-MediaWiki
+- osTicket
+- HESK
+- Vision Helpdesk
+- Sales Syntax
+- HelpDeskZ
+- Faveo Helpdesk
+- OpenSupports
+- phpMyFAQ
+- Maian Support
+- FreeScout
+- UVdesk
+- HelpDEZk
+- Attendize
+- Handesk
 
-### Social Networking
+### 编程框架 Frameworks
 
-pH7Builder
-Dolphin
-Oxwall
-Jcow
-HumHub
-Etano
-UNA
-Family Connections
-Hubzilla
-GNU social
-Elgg
+- Laravel
+- CodeIgniter
+- yii
+- Bootstrap
+- CakePHP
+- Symfony
+- Zend
+- Kohana
+- UIkit
+- UserSpice
+- Smarty
+- HTML Purifier
+- FuelPHP
+- Webasyst
+- PRADO
 
-### Ad Management
+### 博客订阅 RSS
 
-OsClass Classifieds
-
-### Calendars
-
-WebCalendar
-Booked
-LuxCal
-SuperCali
-Event Schedule
-
-### Gaming
-
-Nuked Klan
-
-### Mails
-
-SquirrelMail
-OpenNewsletter
-Postfix Admin
-
-### Polls and Analytics
-
-LimeSurvey
-Matomo
-LittlePoll
-Open Web Analytics
-Advanced Poll
-Simple PHP Poll
-EasyPoll
-Logaholic
-CJ Dynamic Poll
-Little Software Stats
-Framadate
-
-### Project Management
-
-Feng Office
-Rukovoditel
-qdPM
-Collabtive
-dotProject
-Mantis Bug Tracker
-ProjectPier
-Snipe-IT
-Kanboard
-The Bug Genie
-PHProjekt
-TaskFreak
-SOPlanning
-ProjeQtOr
-ZenTao
-phpCollab
-Admidio
-WebCollab
-Traq
-Eventum
-Bugs
-Manage Your Team
-TestLink
-Burden
-
-### E-Commerce
-
-AbanteCart
-WHMCS
-ClicShopping AI
-CE Phoenix
-osCommerce
-Zen Cart
-Loaded Commerce
-PrestaShop
-LiteCart
-Invoice Ninja
-thirty bees
-Open Source Point of Sale
-CubeCart
-Quick.Cart
-Blesta
-InvoicePlane
-OpenCart
-Arastta
-AlegroCart
-SeoToaster
-Open eShop
-Avactis
-Thelia 2
-Zeuscart
-ClientExec
-Bagisto
-Logic Invoice
-Magento
-WhatACart
-QloApps
-PEEL SHOPPING
-Maian Cart
-
-### ERP
-
-Vtiger
-Akaunting
-YetiForce
-SugarCRM
-SuiteCRM
-FrontAccounting
-EPESI
-OrangeHRM
-EspoCRM
-EGroupware
-X2CRM
-Group Office
-Zurmo
-webERP
-ChurchCRM
-Tine 2.0
-Sentrifugo
-Zenbership
-IceHrm
-Jorani
-Krayin CRM
-
-### Guest Books
-
-VX Guestbook
-RicarGBooK
-PHP Address Book
-
-### Customer Support
-
-osTicket
-HESK
-Vision Helpdesk
-Sales Syntax
-HelpDeskZ
-Faveo Helpdesk
-OpenSupports
-phpMyFAQ
-Maian Support
-FreeScout
-UVdesk
-HelpDEZk
-Attendize
-Handesk
-
-### Frameworks
-
-Laravel
-CodeIgniter
-yii
-Bootstrap
-CakePHP
-Symfony
-Zend
-Kohana
-UIkit
-UserSpice
-Smarty
-HTML Purifier
-FuelPHP
-Webasyst
-PRADO
-
-### Educational
-
-Moodle
-Chamilo
-RosarioSIS
-Claroline
-TCExam
-Gibbon
-Omeka
-ATutor
-Forma LMS
-Savsoft Quiz
-openSIS
-
-### DB Tools
-
-phpMyAdmin
-MyWebSQL
-SIDU
-Adminer
-SQLiteManager
-phpLiteAdmin
-Vty
-
-### Music
-
-Impleo
-Castopod
-
-### Video
-
-ClipBucket
-CumulusClips
-
-### RSS
-
-Tiny Tiny RSS
-FreshRSS
-selfoss
-SimplePie
-Miniflux
-Reader Self
-
-### File Management
-
-Arfooo
-OpenDocMan
+- Tiny Tiny RSS
+- FreshRSS
+- selfoss
+- SimplePie
+- Miniflux
+- Reader Self
 
 ### Others
 
-Seo Panel
-SLiMS
-Open Journal Systems
-Question2Answer
-WeBid
-Form Tools
-SPIP
-GLPI
-PASTE
-webtrees
-Soholaunch
-wallabag
-Firefly III
-PhpGedView
-InfiniteWP
-Agora-Project
-EasyAppointments
-Kimai
-DomainMOD
-u-Auctions
-Commentics
-Fusio
-TastyIgniter
-XCloner
-Omeka S
-LibreHealth EHR
-HuMo-genealogy
-phpDocumentor
-Open Monograph Press
-XMS
-Unmark
-Open Preprint Systems
+- Seo Panel
+- SLiMS
+- Open Journal Systems
+- Question2Answer
+- WeBid
+- Form Tools
+- SPIP
+- GLPI
+- PASTE
+- webtrees
+- Soholaunch
+- wallabag
+- Firefly III
+- PhpGedView
+- InfiniteWP
+- Agora-Project
+- EasyAppointments
+- Kimai
+- DomainMOD
+- u-Auctions
+- Commentics
+- Fusio
+- TastyIgniter
+- XCloner
+- Omeka S
+- LibreHealth EHR
+- HuMo-genealogy
+- phpDocumentor
+- Open Monograph Press
+- XMS
+- Unmark
+- Open Preprint Systems

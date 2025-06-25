@@ -199,7 +199,7 @@ links:
 - [速查·CheatSheet](./guide/cheatsheet.md)
 - [配置·Config](./guide/configs.md)
 - [依赖·Dependency](./guide/dependencies.md)
-- 拓展·Extension
+- [拓展·Extension](./guide/extensions.md)
 - [机制·Mechanism](./guide/mechanisms.md)
 - [模块·Module](./guide/modules.md)
 - [片段·Snippet](./guide/snippets.md)
