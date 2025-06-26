@@ -9,6 +9,8 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 
 > 应用（Application），一般指直接运行于操作系统（Windows,MacOS,Linux,Android,iOS 等）上的应用。
 
+- [脚本之家](https://www.jb51.net/softs/)
+
 - Adobe:
   - Adobe PhotoShop: 图像处理软件
   - Adobe Premiere Pro: 视频编辑软件

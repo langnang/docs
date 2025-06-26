@@ -165,11 +165,6 @@ links:
 - 范例·Example
 - [框架·Framework](./frameworks/index.md)
   - ...
-- [脚本·Script](./guide/scripts.md)
-- [软件·Software](./softwares/index.md)
-  - ...
-- 规范·Standard
-- [模板·Template](./guide/templates.md)
 - 接口·OpenApi
 - [实践·Practice](./practices/index.md)
 - [编程·Program](./program/index.md)
@@ -189,6 +184,11 @@ links:
   - ...
 - [项目·Project](./projects/index.md)
   - ...
+- [脚本·Script](./guide/scripts.md)
+- [软件·Software](./softwares/index.md)
+  - ...
+- 规范·Standard
+- [模板·Template](./guide/templates.md)
 - [工具·Toolkit](./toolkits/index.md)
 
 <!--  -->

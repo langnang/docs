@@ -6,6 +6,12 @@
 > 指一组计算机能识别和执行的指令，运行于电子计算机上，满足人们某种需求的信息化工具
 
 - [Softaculous](https://www.softaculous.com/)
+- [脚本之家](https://www.jb51.net/codes/)
+- [DKYM](https://www.dkewl.com/)
+- [A5 下载](https://a5xiazai.com/)
+- [洪运源码](https://www.hycodes.cn/)
+- [YYDS 源码网](https://www.yydsym.com/)
+- [PHP 源码](https://phpsrc.com/)
 
 ## 社交通讯
 
