@@ -2,7 +2,7 @@
 
 # Google Chrome Extensions
 
-`C:\Users\admin\AppData\Local\Google\Chrome\User Data\Profile 1\Extensions`
+`C:\Users\{USERNAME}\AppData\Local\Google\Chrome\User Data\Profile 1\Extensions`
 
 ### Manage extensions
 
