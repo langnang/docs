@@ -44,6 +44,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - Adobe Premiere Pro: 视频编辑软件
 - PotPlayer: 影音视频播放器
 - MediaInfo: 视频参数检测工具
+- [OBS Studio](https://obsproject.com/): 免费和开源的视频录制和现场流媒体软件。
 
 ## 游戏娱乐
 
@@ -110,6 +111,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 
 ### 环境搭建
 
+- BtSoft: 服务器运维管理工具
 - phpts: 计算服务器套件
   - php
   - mysql
@@ -124,6 +126,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - FileZilla: FTP 软件
 - Vmr
 - Anaconda: Python 发行版本
+- Nginx: Web 服务器软件
 
 ### 代码编辑
 
@@ -168,16 +171,19 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - Win10
 - Android
 
+## 硬件检测
+
+- ⭐ DiskGenius: 硬盘分区及数据恢复软件
+- MSI Afterburner: 微星小飞机，一款倍受欢迎的显卡超频与监测软件
+
 ## 其它软件
 
 - WinMerge
 - WinCHM
 - WinPcap
 - Attribute Changer
-- ⭐ DiskGenius: 硬盘分区及数据恢复软件
 - WinMerge: 文件比较/合并工具
 - ⭐ Geek Uninstaller: 专业卸载软件
-- MSI Afterburner: 微星小飞机，一款倍受欢迎的显卡超频与监测软件
 - Adobe XD:
 - Apache: Web 服务器软件
 - Apifox: 接口测试工具
@@ -187,16 +193,13 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - Bandizip: 压缩软件
 - 7-ZIP:
 - Blumind: 思维导图工具
-- BtSoft: 服务器运维管理工具
 - ClickCharts: 图表流程图软件
 - Cloudflare
 - GitHub Desktop
 - Jenkins: 持续集成工具
 - Kali: 渗透测试工具包
 - Microsoft Office: 办公软件套装
-- Nginx: Web 服务器软件
 - nodepad++: 代码编辑器
-- [OBS Studio](https://obsproject.com/): 免费和开源的视频录制和现场流媒体软件。
 - Postman: 接口测试工具
 - ProcessOn: 专业在线作图工具
   - https://www.processon.com/
