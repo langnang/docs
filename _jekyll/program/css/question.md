@@ -213,3 +213,43 @@ title: CSS
 207. 伪类与伪元素的区别
 208. CSS 中哪些属性可以继承？
 209. png-8 和 png-24 有什么区别？
+210. 左侧动态文本，右侧动态图标，图标全部展示，文本超出省略号
+
+```css
+.footer {
+  width: 300px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+}
+.left {
+  background: #3cc8b4;
+  flex: 1 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 50px;
+}
+.right {
+  background: #9bc;
+  max-width: 250px;
+}
+.right-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+<div class="footer">
+  <div class="left">
+    leftleftleftleftleftleftleftleftleftleftleftleftleft
+  </div>
+  <div class="right">
+    <div class="right-ellipsis">
+      rightrightrightrightrightrightrightrightright
+    </div>
+  </div>
+</div>
+```
+
+211. 123
