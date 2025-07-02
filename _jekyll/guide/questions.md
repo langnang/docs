@@ -30,6 +30,22 @@ title: 试题·Question
 - 你现在是跟别人合租?还是自己住呢?/你结婚了没有?
 - 你的职业规划是什么?
 
+## why
+
+> 为什么？为什么要这么做？理由何在？原因是什么？
+
+## what
+
+> 是什么？目的是什么？作什么工作？
+
+## where
+
+> 何处？在哪里做？从哪里入手？
+
+## when
+
+> 何时？什么时间完成？什么时机最适宜？
+
 ## 参考·Reference
 
 - https://github.com/search?q=question&type=repositories
