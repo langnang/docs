@@ -24,12 +24,12 @@
 - laravel/ui
 - livewire/livewire
 - markhilton/monolog-mysql
-- nwidart/laravel-modules
+- [nwidart/laravel-modules](https://laravelmodules.com/)
 - recca0120/terminal
 - wapmorgan/unified-archive
 - zircote/swagger-php
 - [barryvdh/laravel-debugbar](https://laraveldebugbar.com/)
-- fakerphp/faker
+- [fakerphp/faker](https://fakerphp.org/)
 - laravel/sail
 - mockery/mockery
 - nunomaduro/collision
