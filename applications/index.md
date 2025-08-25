@@ -10,18 +10,58 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 > 应用（Application），一般指直接运行于操作系统（Windows,MacOS,Linux,Android,iOS 等）上的应用。
 
 - [脚本之家](https://www.jb51.net/softs/)
+- [MSDN](https://msdn.itellyou.cn/)
 
-## 聊天工具
+## 系统下载
 
-- 微信
-- QQ
+### Windows
 
-## 视频应用
+- Windows 7
+- Windows 8
+- Windows 10
+- Windows Server 2016
+- Windows Server 2019
+- Windows Server 2022
 
-- PotPlayer
-- 荐片
+### Linux
 
-## 网页浏览
+- CentOS
+- Debine
+- Ubuntu
+- Ubuntu Server
+- fnOS
+  - <https://iso.liveupdate.fnnas.com/x86_64/trim/fnos-0.9.21-1062.iso>
+  - <thunder://QUFodHRwOi8vdGh1bmRlci5saXZldXBkYXRlLmZubmFzLmNvbTo4MDgwL3g4Nl82NC90cmltL2Zub3MtMC45LjIxLTEwNjIuaXNvWlo=>
+
+### Android
+
+## Windows 系统
+
+### 系统应用
+
+#### 硬件检测
+
+- ⭐ DiskGenius: 硬盘分区及数据恢复软件
+- MSI Afterburner: 微星小飞机，一款倍受欢迎的显卡超频与监测软件
+- CPU-Z
+- GPU-Z
+- HWiNFO64
+- AIDA64
+
+#### U盘工具
+
+- 微PE：支持灵活部署和制作可启动U盘，兼容多种操作系统。
+- ⭐ Rufus：用于格式化和创建USB启动盘，支持多种引导ISO文件。
+- Ventoy：开源工具，允许用户将ISO文件直接拷贝到U盘，无需反复格式化。
+- USM魔术师、老毛桃、大白菜等其他工具也被推荐用于制作启动盘。
+
+### 网络应用
+
+- AnyDesk: 快速远程桌面
+- Wireshark:
+- Charles: 网络抓包工具
+
+#### 网页浏览
 
 - Google Chrome: 网络浏览器
 - Firefox
@@ -29,87 +69,19 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - Mozilla Firefox: 网络浏览器
 - Microsoft Edge: 网络浏览器
 
-## 办公软件
+#### 聊天工具
 
-- WPS Office: 办公软件套装
-- 百度网盘
-- Microsoft Office
-- rustdesk
-- Typora
-- Foxmail
+- 微信
+- QQ
 
-## 影音媒体
-
-- 网易云
-- Adobe Premiere Pro: 视频编辑软件
-- PotPlayer: 影音视频播放器
-- MediaInfo: 视频参数检测工具
-- [OBS Studio](https://obsproject.com/): 免费和开源的视频录制和现场流媒体软件。
-
-## 游戏娱乐
-
-- WeGame
-- 游戏加加
-- UU 加速器
-- Steam: 电子游戏数字发行平台
-- [Watt Toolkit(Steam++)](https://steampp.net/): 开源跨平台的多功能 Steam 工具箱
-
-## 下载工具
+#### 下载工具
 
 - 迅雷
 - VdhCoApp
 
-## 安全杀毒
+### 编程开发
 
-- 360
-- VeraCrypt
-- 火绒
-- KeePass
-
-## 图形图像
-
-- Adobe PhotoShop: 图像处理软件
-- Snipaste: 截图工具
-- ScreenToGif: 录频、GIF 制作工具
-  - https://www.screentogif.com/
-- Seer
-- PicGo: 用于快速上传图片并获取图片 URL 链接的工具.
-
-## 系统工具
-
-- Everything
-- Disk Genius
-- Shadowsocks
-
-## 手机数码
-
-## 股票网银
-
-## 压缩刻录
-
-- 7-Zip
-- Bandizip
--
-
-## 阅读翻译
-
-- yuedu
-
-## 网络应用
-
-- AnyDesk: 快速远程桌面
-- Wireshark:
-- Charles: 网络抓包工具
-
-## 主题壁纸
-
-## 教育学习
-
-- Zotera: 文献管理工具
-
-## 编程开发
-
-### 环境搭建
+#### 环境搭建
 
 - BtSoft: 服务器运维管理工具
 - phpts: 计算服务器套件
@@ -120,7 +92,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - nodejs
 - ruby
 - ⭐ Git: 分布式版本控制系统
-  - https://git-scm.com/
+  - <https://git-scm.com/>
 - ⭐ TortoiseGit
 - SVN
 - FileZilla: FTP 软件
@@ -128,55 +100,126 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - Anaconda: Python 发行版本
 - Nginx: Web 服务器软件
 
-### 代码编辑
+#### 代码编辑
 
 - Android Studio: 代码编辑器
 - DevEco Studio: 代码编辑器
 - HBuilder X: 代码编辑器
 - JetBrains Idea: 专业代码编辑器
 - JetBrains PhpStorm: 专业代码编辑器
-  - https://www.jetbrains.com/zh-cn/phpstorm/
+  - <https://www.jetbrains.com/zh-cn/phpstorm/>
 - JetBrains WebStorm: 专业代码编辑器
 - Visual Studio: 代码编辑器
 - ⭐ Visual Studio Code: 代码编辑器
 - Lapce: 代码编辑器
 - Lite XL: 代码编辑器
 
-## 数据管理
+#### 数据管理
 
 - JetBrains DataGrip: 数据库管理工具
 - Navicat: 数据库管理工具
 
-## 虚拟模拟
+### 图形应用
+
+### 影音应用
+
+- tinyMediaManager
+
+#### 媒体其它
+
+- 荐片
+
+#### 视频播放
+
+- PotPlayer
+- kodi
+
+### 安全相关
+
+#### 安全杀毒
+
+- 360
+- VeraCrypt
+- 火绒
+- KeePass
+
+### 辅助应用
+
+- RenamePro
+- Vidon
+
+#### 办公软件
+
+- WPS Office: 办公软件套装
+- 百度网盘
+- Microsoft Office
+- rustdesk
+- Typora
+- Foxmail
+
+#### 影音媒体
+
+- 网易云
+- Adobe Premiere Pro: 视频编辑软件
+- PotPlayer: 影音视频播放器
+- MediaInfo: 视频参数检测工具
+- [OBS Studio](https://obsproject.com/): 免费和开源的视频录制和现场流媒体软件。
+
+#### 游戏娱乐
+
+- WeGame
+- 游戏加加
+- UU 加速器
+- Steam: 电子游戏数字发行平台
+- [Watt Toolkit(Steam++)](https://steampp.net/): 开源跨平台的多功能 Steam 工具箱
+
+#### 图形图像
+
+- Adobe PhotoShop: 图像处理软件
+- Snipaste: 截图工具
+- ScreenToGif: 录频、GIF 制作工具
+  - <https://www.screentogif.com/>
+- Seer
+- PicGo: 用于快速上传图片并获取图片 URL 链接的工具.
+
+#### 系统工具
+
+- Everything
+- Disk Genius
+- Shadowsocks
+
+#### 压缩刻录
+
+- 7-Zip
+- Bandizip
+-
+
+#### 阅读翻译
+
+- yuedu
+
+#### 教育学习
+
+- Zotera: 文献管理工具
+
+#### 虚拟模拟
 
 - MuMu
 - VMware Workstation: 桌面虚拟计算机软件
 
-## 硬盘文档
+#### 硬盘文档
 
 - RaiDrive: 云盘挂载软件
 - 坚果云
 - Micorsoft OneDrive
 
-## 便签笔记
+#### 便签笔记
 
 - Microsoft OneNote
-- Typora: Markdown 文本编辑器
-  - https://www.typora.net/
+- [Typora](https://www.typora.net/): Markdown 文本编辑器
+  - <https://www.typora.net/>
 
-## 设备系统
-
-- Win7
-- Win8
-- Win10
-- Android
-
-## 硬件检测
-
-- ⭐ DiskGenius: 硬盘分区及数据恢复软件
-- MSI Afterburner: 微星小飞机，一款倍受欢迎的显卡超频与监测软件
-
-## 其它软件
+#### 其它软件
 
 - WinMerge
 - WinCHM
@@ -187,7 +230,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - Adobe XD:
 - Apache: Web 服务器软件
 - Apifox: 接口测试工具
-  - https://apifox.com/
+  - <https://apifox.com/>
 - Attribute Changer: 文件属性修改工具
 - Baidu Naotu: 百度脑图
 - Bandizip: 压缩软件
@@ -202,7 +245,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - nodepad++: 代码编辑器
 - Postman: 接口测试工具
 - ProcessOn: 专业在线作图工具
-  - https://www.processon.com/
+  - <https://www.processon.com/>
 - R-Studio: 文件数据恢复软件
 - Recuva: 文件数据恢复工具
 - Shadowsocks: 网络代理工具
@@ -216,6 +259,10 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - Unity: 游戏制作软件
 - VeraCrypt: 磁盘加密软件
 - WinPcap: 公共的网络访问系统
-  - https://www.winpcap.org/
+  - <https://www.winpcap.org/>
 - Wireshark: 网络封包分析软件
 - Worktile
+
+## Android
+
+## Android TV
