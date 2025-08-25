@@ -10,6 +10,7 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 > 应用（Application），一般指直接运行于操作系统（Windows,MacOS,Linux,Android,iOS 等）上的应用。
 
 - [脚本之家](https://www.jb51.net/softs/)
+- [下载之家](https://www.downza.cn/soft/)
 - [MSDN](https://msdn.itellyou.cn/)
 
 ## 系统下载
@@ -60,6 +61,15 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - AnyDesk: 快速远程桌面
 - Wireshark:
 - Charles: 网络抓包工具
+
+#### 服务器区
+
+- Nginx
+- Apache
+- Putty
+- phpstudy
+- phpts
+- XAMPP
 
 #### 网页浏览
 

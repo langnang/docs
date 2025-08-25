@@ -19,11 +19,11 @@
   - gitbook
   - vuepress
 - PHP
-  - mideawiki
+  - MediaWiki
 
 ## 影院
 
-PC + Android/iPhone + TV
+> PC + Android/iPhone + TV
 
 - Windows
   - ...
