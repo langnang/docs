@@ -207,6 +207,8 @@ links:
 - [试题·Question](./guide/questions.md)
 - [娱乐·Entertainment](./entertainment/index.md)
 - [方案·Solution](./solutions/index.md)
+<!-- - [平台·Platform] -->
+<!-- - [服务·Service] -->
 
 <!-- - 简历·Vitae -->
 
