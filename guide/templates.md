@@ -21,6 +21,7 @@
 - web
   - desktop
   - nav
+  - newtab
   - ui
 
 ## Node
