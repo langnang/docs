@@ -13,9 +13,7 @@
 - [YYDS 源码网](https://www.yydsym.com/)
 - [PHP 源码](https://phpsrc.com/)
 
-## 社交通讯
-
-### 交流博客 Blogs
+## 交流博客 Blogs
 
 - php.typecho-v1.2 ![](https://img.shields.io/badge/blog-default)
 - php.wordpress-v6 ![](https://img.shields.io/badge/blog-default)
@@ -33,7 +31,7 @@
 - PivotX
 - Leafpub
 
-### 社交论坛 Forums
+## 社交论坛 Forums
 
 - phpBB
 - SMF
@@ -57,7 +55,7 @@
 - Unclassified NewsBoard
 - Flatboard
 
-### 社交网络 Social Networking
+## 社交网络 Social Networking
 
 > 在线上建立和维护个人和商业关系的活动。
 
@@ -73,25 +71,20 @@
 - GNU social
 - Elgg
 
-## 文件分享
+## 云盘挂载 Disk Mounting
 
-### 云盘挂载
+- php
+  - OneIndex
+  - OneManager
 
-- php.oneindex ![](https://img.shields.io/badge/storage-default)
-- php.onemanager ![](https://img.shields.io/badge/storage-default)
-
-## 导航目录
-
-## 知识教育
-
-### 知识百科 Wikis
+## 知识百科 Wikis
 
 - DokuWiki
 - PmWiki
 - WikkaWiki
 - MediaWiki
 
-### 学习教育 Educational
+## 学习教育 Educational
 
 - Moodle
 - Chamilo
@@ -105,9 +98,9 @@
 - Savsoft Quiz
 - openSIS
 
-### 问卷试题 Question
+## 问卷试题 Question
 
-### 民意调研 Polls and Analytics
+## 民意调研 Polls and Analytics
 
 - LimeSurvey
 - Matomo
@@ -121,9 +114,7 @@
 - Little Software Stats
 - Framadate
 
-## 影音媒体
-
-### 图像画廊 Image Galleries
+## 图像画廊 Image Galleries
 
 - Gallery
 - Piwigo
@@ -134,25 +125,21 @@
 - 4images
 - iGalerie
 
-### 游戏 Gaming
+## 游戏 Gaming
 
 - Nuked Klan
 
-### 音乐 Music
+## 音乐 Music
 
 - Impleo
 - Castopod
 
-### 视频 Video
+## 视频 Video
 
 - ClipBucket
 - CumulusClips
 
-## 生活娱乐
-
-## 企业管理
-
-### 资源管理 ERP
+## 资源管理 ERP
 
 - Vtiger
 - Akaunting
@@ -176,13 +163,13 @@
 - Jorani
 - Krayin CRM
 
-### 广告管理 Ad Management
+## 广告管理 Ad Management
 
 > 指对广告进行策划、制作、发布、监测和评估等全过程的管理工作。
 
 - OsClass Classifieds
 
-### 项目管理 Project Management
+## 项目管理 Project Management
 
 - Feng Office
 - Rukovoditel
@@ -209,8 +196,9 @@
 - TestLink
 - Burden
 
-### 内容管理 Portals/CMS
+## 内容管理 Portals/CMS
 
+- FoxCMS
 - Joomla
 - Open Real Estate
 - Concrete CMS
@@ -289,7 +277,7 @@
 - Wolf CMS
 - SofaWiki
 
-### 数据管理 DB Tools
+## 数据管理 DB Tools
 
 - phpMyAdmin
 - MyWebSQL
@@ -299,14 +287,12 @@
 - phpLiteAdmin
 - Vty
 
-### 文件管理 File Management
+## 文件管理 File Management
 
 - Arfooo
 - OpenDocMan
 
-## 其它待定
-
-### 日历 Calendars
+## 日历 Calendars
 
 - WebCalendar
 - Booked
@@ -314,13 +300,13 @@
 - SuperCali
 - Event Schedule
 
-### 电子邮件 Mails
+## 电子邮件 Mails
 
 - SquirrelMail
 - OpenNewsletter
 - Postfix Admin
 
-### 电子商务 E-Commerce
+## 电子商务 E-Commerce
 
 - AbanteCart
 - WHMCS
@@ -355,13 +341,13 @@
 - PEEL SHOPPING
 - Maian Cart
 
-### 访客留言 Guest Books
+## 访客留言 Guest Books
 
 - VX Guestbook
 - RicarGBooK
 - PHP Address Book
 
-### 客户支持 Customer Support
+## 客户支持 Customer Support
 
 - osTicket
 - HESK
@@ -378,9 +364,8 @@
 - Attendize
 - Handesk
 
-### 编程框架 Frameworks
+## 编程框架 Frameworks
 
-- Laravel
 - CodeIgniter
 - yii
 - Bootstrap
@@ -396,7 +381,16 @@
 - Webasyst
 - PRADO
 
-### 博客订阅 RSS
+- HTML
+  - Bootstrap
+- Node
+  - Vue
+  - React
+- Composer
+  - Laravel
+  - lumen
+
+## 博客订阅 RSS
 
 - Tiny Tiny RSS
 - FreshRSS
@@ -405,7 +399,7 @@
 - Miniflux
 - Reader Self
 
-### Others
+## 其它 Others
 
 - Seo Panel
 - SLiMS
