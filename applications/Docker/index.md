@@ -2,6 +2,8 @@
 
 ## 安装
 
+### Install for Windows
+
 ```batch
 # 迁移安装文件
 move "C:\Program Files\Docker\*.*" "D:\Programs\Docker\"
@@ -10,13 +12,13 @@ move "C:\Program Files\Docker\*.*" "D:\Programs\Docker\"
 mklink /j "C:\Program Files\Docker" "D:\Programs\Docker"
 ```
 
-### 安装到D盘
-
 1. 手动创建必要目录
 
-在D盘创建以下目录：
+在 D 盘创建以下目录：
 
 ```txt
+C:\Program Files\Docker
+C:\Users\%USERNAME%\AppData\Local\Docker
 D:\Programs\Docker
 D:\Programs\Docker\Data
 确保目录名称与上述一致，否则可能导致安装失败。
@@ -24,18 +26,42 @@ D:\Programs\Docker\Data
 
 2. 使用管理员权限安装
 
-下载Docker Desktop安装程序后，打开命令提示符（以管理员身份运行），进入安装程序所在目录。例如：
+下载 Docker Desktop 安装程序后，打开命令提示符（以管理员身份运行），进入安装程序所在目录。例如：
 
-cd D:\Downloads
 运行以下命令进行安装：
 
-```bat
-start /w "" "Docker Desktop Installer.exe" install -accept-license --installation-dir="D:\Programs\Docker" --wsl-default-data-root="D:\Programs\Docker\data" --windows-containers-default-data-root="D:\\Programs\\Docker"
+```batch
+cd D:\Downloads
+
+curl -L "https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe" -o "Docker Desktop Installer.exe"
+
+@rem start /w "" "Docker Desktop Installer.exe" install -accept-license --installation-dir="D:\Programs\Docker" --wsl-default-data-root="D:\Programs\Docker\data" --windows-containers-default-data-root="D:\\Programs\\Docker"
+
+start /w "" "Docker Desktop Installer.exe" install
+
+docker version
+
+docker run hello-world
+
+@rem C:\Program Files\Docker
+xcopy "C:\Program Files\Docker" "D:\Programs\Docker" /H /E /Y
+rd "C:\Program Files\Docker" /S /Q
+mklink /j "C:\Program Files\Docker" "D:\Programs\Docker"
+
+@rem C:\Users\%USERNAME%\.docker
+xcopy "C:\Users\%USERNAME%\.docker" "D:\Programs\Docker\.docker" /H /E /Y
+rd "C:\Users\%USERNAME%\.docker" /S /Q
+mklink /j "C:\Users\%USERNAME%\.docker" "D:\Programs\Docker\.docker"
+
+@rem C:\Users\%USERNAME%\AppData\Local\Docker
+xcopy "C:\Users\%USERNAME%\AppData\Local\Docker" "D:\Programs\Docker\AppData" /H /E /Y
+rd "C:\Users\%USERNAME%\AppData\Local\Docker" /S /Q
+mklink /j "C:\Users\%USERNAME%\AppData\Local\Docker" "D:\Programs\Docker\AppData"
 ```
 
 3. 更新环境变量
 
-如果安装完成后仍然报错，可能是环境变量未正确更新。使用PowerShell更新：
+如果安装完成后仍然报错，可能是环境变量未正确更新。使用 PowerShell 更新：
 
 ```ps1
 $oldPath = [System.Environment]::GetEnvironmentVariable("Path", [System.EnvironmentVariableTarget]::Machine)
@@ -50,13 +76,28 @@ $newPath = $oldPath + ";D:\Programs\Docker\resources\bin"
 在命令提示符中运行以下命令：
 
 docker version
-如果输出Docker版本信息，则说明安装成功。
+如果输出 Docker 版本信息，则说明安装成功。
 
 5. 运行测试容器
 
-验证Docker是否正常工作：
+验证 Docker 是否正常工作：
 
 docker run hello-world
+
+### 中文化
+
+```batch
+
+```
+
+## 关闭 Docker
+
+```sh
+# 禁用 docker 开机自启
+systemctl disable docker
+# 关停 docker 服务
+systemctl stop docker
+```
 
 ## 议题
 
