@@ -99,6 +99,22 @@ systemctl disable docker
 systemctl stop docker
 ```
 
+### Docker 网络模式：
+
+Bridge 模式：默认的网络模式，容器通过虚拟网络桥进行通信。
+Host 模式：容器与宿主机共享网络命名空间。
+None 模式：禁用所有网络功能。
+Overlay 模式：用于跨多个 Docker 主机的容器通信。
+Macvlan 模式：每个容器拥有独立的 MAC 地址和 IP 地址。
+
+### 端口映射：
+
+通过将宿主机的端口映射到容器内的端口，实现外部网络对容器内服务的访问。
+
+### 容器互联：
+
+通过容器名称建立网络通信隧道，使容器之间可以相互通信。
+
 ## 议题
 
 - `This can prevent Docker from starting. Use at your own risk.`
