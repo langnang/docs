@@ -115,3 +115,5 @@ jekyll_get_json:
     json: "https://cdn.jsdelivr.net/gh/langnang/storage/json/svg.json"
   - data: websites
     json: "https://cdn.jsdelivr.net/gh/langnang/storage/json/websites.json"
+
+gems: [jekyll-theme-cayman]
