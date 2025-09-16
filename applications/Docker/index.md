@@ -115,6 +115,10 @@ Macvlan 模式：每个容器拥有独立的 MAC 地址和 IP 地址。
 
 通过容器名称建立网络通信隧道，使容器之间可以相互通信。
 
+### 容器访问宿主机数据库
+
+- host:host.docker.internal
+
 ## 议题
 
 - `This can prevent Docker from starting. Use at your own risk.`
