@@ -9,5 +9,15 @@
 ```
 
 ```yml
-
+services:
+  reader:
+    image: hectorqin/reader
+    container_name: reader
+    ports:
+      - 0:8080
+    volumes:
+      - ./logs:/logs
+      - ./storage:/storage
+    restart: unless-stopped
+    network_mode: bridge
 ```
