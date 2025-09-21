@@ -84,6 +84,171 @@ docker version
 
 docker run hello-world
 
+### Install for Linux(Ubuntu)
+
+1. 卸载旧版本
+
+首先，确保系统中没有旧版本的 Docker。
+
+```shell
+sudo apt-get remove docker docker-engine docker.io containerd runc
+```
+
+2.  更新软件包
+
+更新系统的软件包索引。
+
+```shell
+sudo apt-get update
+sudo apt-get upgrade
+```
+
+3.  安装依赖项
+
+安装 Docker 所需的依赖项。
+
+```shell
+sudo apt-get install ca-certificates curl gnupg lsb-release
+```
+
+4.  添加 Docker 的 GPG 密钥
+
+添加 Docker 的官方 GPG 密钥。
+
+```shell
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+```
+
+5.  设置 Docker 仓库
+
+设置 Docker 的稳定版仓库。
+
+```shell
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+```
+
+6.  安装 Docker 引擎
+
+安装最新版本的 Docker 引擎和 containerd。
+
+```shell
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
+
+7.  启动并验证 Docker 安装
+
+启动 Docker 并验证是否安装成功。
+
+```shell
+sudo systemctl start docker
+sudo docker run hello-world
+```
+
+如果看到 "Hello from Docker!" 的信息，则表示安装成功。
+
+### Install for Linux(CentOS)
+
+1. 卸载旧版本 Docker
+
+如果系统中已安装旧版本的 Docker，请先卸载：
+
+```shell
+sudo yum remove docker \
+docker-client \
+docker-client-latest \
+docker-common \
+docker-latest \
+docker-latest-logrotate \
+docker-logrotate \
+docker-engine
+```
+
+2. 安装依赖工具
+
+安装 yum-utils 工具，用于管理软件包和配置仓库：
+
+```shell
+sudo yum install -y yum-utils
+```
+
+3. 添加 Docker 官方仓库
+
+运行以下命令添加 Docker 的官方仓库：
+
+```shell
+sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+```
+
+4. 安装 Docker
+
+使用以下命令安装 Docker：
+
+```shell
+sudo yum install -y docker-ce docker-ce-cli containerd.io
+```
+
+5. 启动并验证 Docker
+
+启动 Docker 服务：
+
+```shell
+sudo systemctl start docker
+```
+
+验证是否成功运行：
+
+```shell
+sudo systemctl status docker
+```
+
+6. 设置开机自启
+
+让 Docker 在系统启动时自动运行：
+
+```shell
+sudo systemctl enable docker
+```
+
+7. 测试安装
+
+运行以下命令测试 Docker 是否正常工作：
+
+```shell
+sudo docker run hello-world
+```
+
+如果看到 "Hello from Docker!" 的欢迎信息，说明安装成功。
+
+8. 配置镜像加速器（可选）
+
+为提高国内拉取镜像的速度，可以配置阿里云镜像加速器：
+
+创建配置文件目录：
+
+```shell
+sudo mkdir -p /etc/docker
+```
+
+编辑配置文件：
+
+```shell
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+"registry-mirrors": ["https://<你的加速器地址>.mirror.aliyuncs.com"]
+}
+EOF
+```
+
+重启服务以应用配置：
+
+```shell
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+```
+
+通过以上步骤，您已成功在 CentOS 系统上安装并配置了 Docker。Docker 的强大功能将极大提升您的开发和部署效率！
+
 ### 中文化
 
 ```batch

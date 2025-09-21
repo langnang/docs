@@ -2,7 +2,7 @@
 
 ## Install
 
-### Install to Docker
+### Install for Docker
 
 ```shell
 

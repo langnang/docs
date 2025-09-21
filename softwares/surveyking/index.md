@@ -2,7 +2,7 @@
 
 ## Install
 
-### Install to Docker
+### Install for Docker
 
 ```shell
 # 一键启动，默认使用的是内置的 h2 数据库
