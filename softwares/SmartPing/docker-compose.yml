@@ -1,6 +1,0 @@
-services:
-    SmartPing:
-        image: qctt/smartping
-        # image: zhongpei/smartping
-        ports:
-            - 0:8899
