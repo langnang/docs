@@ -1,0 +1,24 @@
+# Software
+
+## Install
+
+### Install for Docker
+
+```shell
+
+```
+
+```yml
+services:
+  sun-panel:
+    image: "hslr/sun-panel:latest"
+    container_name: sun-panel
+    volumes:
+      - ./conf:/app/conf
+      - ./uploads:/app/uploads
+      - ./database:/app/database
+    ports:
+      - 0:3002
+    restart: unless-stopped
+    network_mode: bridge
+```

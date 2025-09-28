@@ -1,0 +1,20 @@
+# Software
+
+## Install
+
+### Install for Docker
+
+```shell
+
+```
+
+```yml
+services:
+  1panel:
+    image: moelin/1panel
+    container_name: 1panel
+    ports:
+      - 0:10086
+    restart: unless-stopped
+    network_mode: bridge
+```

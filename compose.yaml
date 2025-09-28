@@ -1,0 +1,12 @@
+services:
+  vuepress:
+    image: node:alpine
+    working_dir: /app
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.temp
+      - /app/.vuepress/.cache
+    ports:
+      - 0:8080
+    command: sh -c "npm install && npm run docs:dev"
