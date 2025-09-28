@@ -24,7 +24,8 @@ docker pull node:lts-slim
 **查看本地镜像**
 
 ```sh
-docker images
+docker images --filter "reference=node:*"
+docker images --filter "reference=*/node:*"
 
 # REPOSITORY  TAG          IMAGE ID       CREATED       SIZE
 # node        alpine       77f3c4d1f33c   2 days ago    237MB
