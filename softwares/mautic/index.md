@@ -8,6 +8,4 @@
 
 ```
 
-```yml
-
-```
+@[code](./docker-compose.yml)

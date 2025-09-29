@@ -432,9 +432,12 @@
 
 ## 管理面板
 
-- 1Panel
-- DockerCopilot
-- dockge
+- [x] [1Panel](./1Panel/)
+- [x] [DockerCopilot](./DockerCopilot/)
+- [x] [Dockge](./Dockge/)
+- [x] [DPanel](./DPanel/)
+- [x] [Portainer](./Portainer/)
+- [ ] DockerUI
 
 ## 云盘挂载
 

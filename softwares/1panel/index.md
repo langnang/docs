@@ -4,17 +4,13 @@
 
 ### Install for Docker
 
+- 默认端口: 10086
+- 默认账户: 1panel
+- 默认密码: 1panel_password
+- 默认入口: entrance
+
 ```shell
 
 ```
 
-```yml
-services:
-  1panel:
-    image: moelin/1panel
-    container_name: 1panel
-    ports:
-      - 0:10086
-    restart: unless-stopped
-    network_mode: bridge
-```
+@[code](./docker-compose.yml)

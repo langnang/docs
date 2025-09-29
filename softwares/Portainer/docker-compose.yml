@@ -1,0 +1,13 @@
+services:
+  portainer:
+    image: 6053537/portainer-ce:latest
+    container_name: portainer
+    ports:
+      - 0:9000
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - //var/run/docker.sock:/var/run/docker.sock
+      - ./_/data:/data
+    restart: unless-stopped
+    network_mode: bridge
