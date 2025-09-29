@@ -4,9 +4,10 @@ _site
 .jekyll-metadata
 vendor
 
+**/_
+**/_ *
 **/.temp
+**/.temp *
 **/.cache
 **/vendor
 **/node_modules
-
-**/_

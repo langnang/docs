@@ -1,6 +1,3 @@
----
----
-
 # 软件·Software
 
 > 指一组计算机能识别和执行的指令，运行于电子计算机上，满足人们某种需求的信息化工具
@@ -13,10 +10,12 @@
 - [YYDS 源码网](https://www.yydsym.com/)
 - [PHP 源码](https://phpsrc.com/)
 
+<!-- ![](https://img.shields.io/badge/Docker-blue?logo=docker) -->
+
 ## 交流博客 Blogs
 
-- php.typecho-v1.2 ![](https://img.shields.io/badge/blog-default)
-- php.wordpress-v6 ![](https://img.shields.io/badge/blog-default)
+- ![](https://img.shields.io/badge/blog-default) php.typecho-v1.2
+- ![](https://img.shields.io/badge/blog-default) php.wordpress-v6
 - WordPress
 - Pubvana
 - Serendipity
@@ -118,7 +117,7 @@
 
 ## 问卷试题 Question
 
-- [SurveyKing](./SurveyKing/index.md)
+- [SurveyKing](./SurveyKing/)
 
 ## 民意调研 Polls and Analytics
 
@@ -411,7 +410,6 @@
 - FuelPHP
 - Webasyst
 - PRADO
-
 - HTML
   - Bootstrap
 - Node
@@ -432,12 +430,13 @@
 
 ## 管理面板
 
-- [x] [1Panel](./1Panel/)
-- [x] [DockerCopilot](./DockerCopilot/)
-- [x] [Dockge](./Dockge/)
-- [x] [DPanel](./DPanel/)
-- [x] [Portainer](./Portainer/)
-- [ ] DockerUI
+<!--
+- [1Panel](./1Panel/)
+- [DockerCopilot](./DockerCopilot/)
+- [Dockge](./Dockge/)
+- [DPanel](./DPanel/)
+- [Portainer](./Portainer/)
+- [DockerUI](./DockerUI/)
 
 ## 云盘挂载
 
