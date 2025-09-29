@@ -1,1 +1,1 @@
-docker exec -it node-server /bin/bash
+docker exec -it node-cli /bin/bash

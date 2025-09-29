@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+**/.temp
+**/.cache
+**/vendor
+**/node_modules

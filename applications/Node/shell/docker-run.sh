@@ -1,1 +1,1 @@
-docker run -itd --name node-server node
+docker run -itd --name node-cli node:alpine
