@@ -18,5 +18,9 @@ services:
     #   - DOCKGE_STACKS_DIR=/opt/stacks
     #   - SUBFOLDER=/dockge/
     restart: unless-stopped
-    network_mode: bridge
     privileged: true
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

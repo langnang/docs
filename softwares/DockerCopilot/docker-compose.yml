@@ -13,5 +13,9 @@ services:
       - //var/run/docker.sock:/var/run/docker.sock
       - ./_/data:/data #自己设置路径。目前存储备份文件，未来可能存储配置文件
     restart: unless-stopped
-    network_mode: bridge
     privileged: true
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

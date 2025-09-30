@@ -12,5 +12,9 @@ services:
       - //var/run/docker.sock:/var/run/docker.sock
       - ./_/dpanel:/dpanel # 将 /home/dpanel 更改为你想要挂载的宿主机目录
     restart: unless-stopped
-    network_mode: bridge
     privileged: true
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

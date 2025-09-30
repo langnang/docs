@@ -10,4 +10,8 @@ services:
       - //var/run/docker.sock:/var/run/docker.sock
       # - ./_/data:/data
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
