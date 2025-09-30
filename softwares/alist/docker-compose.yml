@@ -11,4 +11,8 @@ services:
       - PGID=0
       - UMASK=022
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

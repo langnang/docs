@@ -18,5 +18,5 @@ services:
     volumes:
       - ./log:/apps/usr/sqlstudio/linux/log
       - ./data:/apps/usr/sqlstudio/linux/data
-    restart: always
+    restart: unless-stopped
 ```

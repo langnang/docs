@@ -11,5 +11,9 @@ services:
     environment:
       - BOOT_OPTIONS="--server.port=8080"
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
     privileged: true

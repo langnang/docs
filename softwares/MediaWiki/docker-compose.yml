@@ -5,4 +5,4 @@ services:
       - "0:80"
     volumes:
       - ./images:/var/www/html/images
-    restart: always
+    restart: unless-stopped

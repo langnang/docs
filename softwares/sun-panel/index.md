@@ -20,5 +20,9 @@ services:
     ports:
       - 0:3002
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```

@@ -18,4 +18,8 @@ services:
       - 3001:3001
     shm_size: "1gb"
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

@@ -16,5 +16,9 @@ services:
       - 0:80
     image: badapple9/speedtest-x
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```

@@ -19,5 +19,9 @@ services:
       - ./logs:/logs
       - ./storage:/storage
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```

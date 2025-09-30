@@ -24,5 +24,9 @@ services:
     ports:
       - 0:8096
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```

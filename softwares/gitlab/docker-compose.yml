@@ -23,4 +23,8 @@ services:
       - "./logs:/var/log/gitlab"
       - "./data:/var/opt/gitlab"
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

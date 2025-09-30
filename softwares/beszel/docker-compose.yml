@@ -7,4 +7,8 @@ services:
     volumes:
       - ./data:/beszel_dat
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

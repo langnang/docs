@@ -18,5 +18,9 @@ services:
     volumes:
       - ./work:/home/jovyan/work
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```

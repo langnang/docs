@@ -21,7 +21,11 @@ services:
       - ./plugins:/usr/src/redmine/plugins # 插件目录
       - ./themes:/usr/src/redmine/public/themes # 主题目录
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```
 
 ## SubPath

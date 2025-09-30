@@ -3,7 +3,11 @@ services:
     image: 4gray/iptvnator-backend:latest
     container_name: iptvnator-backend
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
     ports:
       - "4334:3000"
     environment:
@@ -13,7 +17,11 @@ services:
     image: 4gray/iptvnator:latest
     container_name: iptvnator-web
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
     ports:
       - "4333:80"
     environment:

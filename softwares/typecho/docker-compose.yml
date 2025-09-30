@@ -10,4 +10,8 @@ services:
       - ./app:/app
       - ./app/usr:/app/usr
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

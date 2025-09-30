@@ -10,4 +10,8 @@ services:
     # - ADMINER_DESIGN=hydra
     # - ADMINER_PLUGINS=login-ldap
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

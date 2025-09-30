@@ -2,7 +2,7 @@ services:
   emby:
     image: emby/embyserver:latest
     container_name: emby
-    restart: always
+    restart: unless-stopped
     deploy:
       resources:
         limits:
@@ -16,5 +16,5 @@ services:
       - /path/to/metadata:/metadata
       - /path/to/media:/media
     ports:
-      - '8096:8096'
-    network_mode: 'bridge'
+      - "8096:8096"
+    network_mode: "bridge"

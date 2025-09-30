@@ -25,5 +25,9 @@ services:
       - ./transcode:/transcode # 转码文件目录
       - ./media:/data # 媒体文件目录
     restart: unless-stopped # 自动重启策略
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```

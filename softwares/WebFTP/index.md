@@ -13,5 +13,9 @@ services:
   container_name:
     container_name: container_name
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
 ```

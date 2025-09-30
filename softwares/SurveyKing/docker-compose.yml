@@ -9,4 +9,8 @@ services:
     ports:
       - 0:1991 # 冒号左侧可改
     restart: unless-stopped
-    network_mode: bridge
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
