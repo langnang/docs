@@ -14,220 +14,216 @@
 
 ## 交流博客 Blogs
 
-| Name                                                            | Docker/Linux/Windows | AllowProxy |
-| --------------------------------------------------------------- | :------------------: | :--------: |
-| ![](https://img.shields.io/badge/blog-default) php.typecho-v1.2 |
-| ![](https://img.shields.io/badge/blog-default) php.wordpress-v6 |
-| WordPress                                                       |
-| Pubvana                                                         |
-| Serendipity                                                     |
-| Dotclear                                                        |
-| Textpattern                                                     |
-| b2evolution                                                     |
-| HTMLy                                                           |
-| Nibbleblog                                                      |
-| Nucleus                                                         |
-| Chyrp                                                           |
-| FlatPress                                                       |
-| PivotX                                                          |
-| Leafpub                                                         |
-| mediawiki                                                       |
-| typecho                                                         |
-| wordpress                                                       |
+| Name                                                            | language | Docker/Linux/Windows | AllowProxy |
+| --------------------------------------------------------------- | :------: | :------------------: | :--------: |
+| ![](https://img.shields.io/badge/blog-default) php.typecho-v1.2 |          |                      |            |
+| ![](https://img.shields.io/badge/blog-default) php.wordpress-v6 |          |                      |            |
+| WordPress                                                       |          |                      |            |
+| Pubvana                                                         |          |                      |            |
+| Serendipity                                                     |          |                      |            |
+| Dotclear                                                        |          |                      |            |
+| Textpattern                                                     |          |                      |            |
+| b2evolution                                                     |          |                      |            |
+| HTMLy                                                           |          |                      |            |
+| Nibbleblog                                                      |          |                      |            |
+| Nucleus                                                         |          |                      |            |
+| Chyrp                                                           |          |                      |            |
+| FlatPress                                                       |          |                      |            |
+| PivotX                                                          |          |                      |            |
+| Leafpub                                                         |          |                      |            |
+| mediawiki                                                       |          |                      |            |
+| typecho                                                         |          |                      |            |
+| wordpress                                                       |          |                      |            |
 
 ## 社交论坛 Forums
 
-| Name                   | Docker/Linux/Windows | AllowProxy |
-| ---------------------- | :------------------: | :--------: |
-| phpBB                  |
-| SMF                    |
-| MyBB                   |
-| AEF                    |
-| Vanilla                |
-| PunBB                  |
-| bbPress                |
-| FluxBB                 |
-| XMB                    |
-| Phorum                 |
-| Flarum                 |
-| ElkArte                |
-| FUDforum               |
-| miniBB                 |
-| Carbon Forum           |
-| my little forum        |
-| TidyBB                 |
-| TangoBB                |
-| Beehive                |
-| Unclassified NewsBoard |
-| Flatboard              |
+| Name                   | language | Docker/Linux/Windows | AllowProxy |
+| ---------------------- | :------: | :------------------: | :--------: |
+| phpBB                  |          |                      |            |
+| SMF                    |          |                      |            |
+| MyBB                   |          |                      |            |
+| AEF                    |          |                      |            |
+| Vanilla                |          |                      |            |
+| PunBB                  |          |                      |            |
+| bbPress                |          |                      |            |
+| FluxBB                 |          |                      |            |
+| XMB                    |          |                      |            |
+| Phorum                 |          |                      |            |
+| Flarum                 |          |                      |            |
+| ElkArte                |          |                      |            |
+| FUDforum               |          |                      |            |
+| miniBB                 |          |                      |            |
+| Carbon Forum           |          |                      |            |
+| my little forum        |          |                      |            |
+| TidyBB                 |          |                      |            |
+| TangoBB                |          |                      |            |
+| Beehive                |          |                      |            |
+| Unclassified NewsBoard |          |                      |            |
+| Flatboard              |          |                      |            |
 
 ## 社交网络 Social Networking
 
 > 在线上建立和维护个人和商业关系的活动。
 
-| Name                 | Docker/Linux/Windows | AllowProxy |
-| -------------------- | :------------------: | :--------: |
-| - pH7Builder         |
-| - Dolphin            |
-| - Oxwall             |
-| - Jcow               |
-| - HumHub             |
-| - Etano              |
-| - UNA                |
-| - Family Connections |
-| - Hubzilla           |
-| - GNU social         |
-| - Elgg               |
+| Name               | language | Docker/Linux/Windows | AllowProxy |
+| ------------------ | :------: | :------------------: | :--------: |
+| pH7Builder         |          |                      |            |
+| Dolphin            |          |                      |            |
+| Oxwall             |          |                      |            |
+| Jcow               |          |                      |            |
+| HumHub             |          |                      |            |
+| Etano              |          |                      |            |
+| UNA                |          |                      |            |
+| Family Connections |          |                      |            |
+| Hubzilla           |          |                      |            |
+| GNU social         |          |                      |            |
+| Elgg               |          |                      |            |
 
 ## 导航门户 Navigation
 
-| Name      | Docker/Linux/Windows | AllowProxy |
-| --------- | :------------------: | :--------: |
-| Homepage  |
-| heimdall  |
-| flare     |
-| dashy     |
-| Homarr    |
-| onenav    |
-| heimdall  |
-| flare     |
-| dashy     |
-| homepage  |
-| Homarr    |
-| sun-panel |
+| Name      | language | Docker/Linux/Windows | AllowProxy |
+| --------- | :------: | :------------------: | :--------: |
+| Homepage  |          |                      |            |
+| heimdall  |          |                      |            |
+| flare     |          |                      |            |
+| dashy     |          |                      |            |
+| Homarr    |          |                      |            |
+| onenav    |          |                      |            |
+| heimdall  |          |                      |            |
+| flare     |          |                      |            |
+| dashy     |          |                      |            |
+| homepage  |          |                      |            |
+| Homarr    |          |                      |            |
+| sun-panel |          |                      |            |
 
 ## 云盘挂载 Disk Mounting
 
-| Name       | Docker/Linux/Windows | AllowProxy |
-| ---------- | :------------------: | :--------: |
-| php        |
-| OneIndex   |
-| OneManager |
+| Name       | language | Docker/Linux/Windows | AllowProxy |
+| ---------- | :------: | :------------------: | :--------: |
+| php        |          |                      |            |
+| OneIndex   |          |                      |            |
+| OneManager |          |                      |            |
+| alist      |          |                      |            |
+| cuteone    |          |                      |            |
+| alist      |          |                      |            |
+| cuteone    |          |                      |            |
+| cuteoneP   |          |                      |            |
+| olaindex   |          |                      |            |
+| oneindex   |          |                      |            |
+| oneindexM  |          |                      |            |
 
 ## 知识百科 Wikis
 
-| Name      | Docker/Linux/Windows | AllowProxy |
-| --------- | :------------------: | :--------: |
-| DokuWiki  |
-| PmWiki    |
-| WikkaWiki |
-
-| MediaWiki
+| Name      | language | Docker/Linux/Windows | AllowProxy |
+| --------- | :------: | :------------------: | :--------: |
+| DokuWiki  |          |                      |            |
+| PmWiki    |          |                      |            |
+| WikkaWiki |          |                      |            |
+| MediaWiki |          |                      |            |
 
 ## 学习教育 Educational
 
-| Name         | Docker/Linux/Windows | AllowProxy |
-| ------------ | :------------------: | :--------: |
-| Moodle       |
-| Chamilo      |
-| RosarioSIS   |
-| Claroline    |
-| TCExam       |
-| Gibbon       |
-| Omeka        |
-| ATutor       |
-| Forma LMS    |
-| Savsoft Quiz |
-
-| openSIS
+| Name         | language | Docker/Linux/Windows | AllowProxy |
+| ------------ | :------: | :------------------: | :--------: |
+| Moodle       |          |                      |            |
+| Chamilo      |          |                      |            |
+| RosarioSIS   |          |                      |            |
+| Claroline    |          |                      |            |
+| TCExam       |          |                      |            |
+| Gibbon       |          |                      |            |
+| Omeka        |          |                      |            |
+| ATutor       |          |                      |            |
+| Forma LMS    |          |                      |            |
+| Savsoft Quiz |          |                      |            |
+| openSIS      |          |                      |            |
 
 ## 问卷试题 Question
 
-| Name | Docker/Linux/Windows | AllowProxy |
-| ---- | :------------------: | :--------: |
-
-| [SurveyKing](./SurveyKing/)
+| Name                        | language | Docker/Linux/Windows | AllowProxy |
+| --------------------------- | :------: | :------------------: | :--------: |
+| [SurveyKing](./SurveyKing/) |          |                      |            |
 
 ## 民意调研 Polls and Analytics
 
-| Name                  | Docker/Linux/Windows | AllowProxy |
-| --------------------- | :------------------: | :--------: |
-| LimeSurvey            |
-| Matomo                |
-| LittlePoll            |
-| Open Web Analytics    |
-| Advanced Poll         |
-| Simple PHP Poll       |
-| EasyPoll              |
-| Logaholic             |
-| CJ Dynamic Poll       |
-| Little Software Stats |
-
-| Framadate
+| Name                  | language | Docker/Linux/Windows | AllowProxy |
+| --------------------- | :------: | :------------------: | :--------: |
+| LimeSurvey            |          |                      |            |
+| Matomo                |          |                      |            |
+| LittlePoll            |          |                      |            |
+| Open Web Analytics    |          |                      |            |
+| Advanced Poll         |          |                      |            |
+| Simple PHP Poll       |          |                      |            |
+| EasyPoll              |          |                      |            |
+| Logaholic             |          |                      |            |
+| CJ Dynamic Poll       |          |                      |            |
+| Little Software Stats |          |                      |            |
+| Framadate             |          |                      |            |
 
 ## 图像画廊 Image Galleries
 
-| Name           | Docker/Linux/Windows | AllowProxy |
-| -------------- | :------------------: | :--------: |
-| Gallery        |
-| Piwigo         |
-| Coppermine     |
-| Zenphoto       |
-| TinyWebGallery |
-| Lychee         |
-| 4images        |
-
-| iGalerie
+| Name           | language | Docker/Linux/Windows | AllowProxy |
+| -------------- | :------: | :------------------: | :--------: |
+| Gallery        |          |                      |            |
+| Piwigo         |          |                      |            |
+| Coppermine     |          |                      |            |
+| Zenphoto       |          |                      |            |
+| TinyWebGallery |          |                      |            |
+| Lychee         |          |                      |            |
+| 4images        |          |                      |            |
+| iGalerie       |          |                      |            |
 
 ## 影音媒体
 
 ### 音乐 Music
 
-| Name   | Docker/Linux/Windows | AllowProxy |
-| ------ | :------------------: | :--------: |
-| Impleo |
-
-| Castopod
+| Name     | language | Docker/Linux/Windows | AllowProxy |
+| -------- | :------: | :------------------: | :--------: |
+| Impleo   |          |                      |            |
+| Castopod |          |                      |            |
 
 ### 视频 Video
 
-| Name       | Docker/Linux/Windows | AllowProxy |
-| ---------- | :------------------: | :--------: |
-| ClipBucket |
-
-| CumulusClips
-
-| Name     | Docker/Linux/Windows | AllowProxy |
-| -------- | :------------------: | :--------: |
-| Emby     |       ✔️/❔/❔       |     ✔️     |
-| Jellyfin |       ✔️/❔/❔       |     ✔️     |
-| Plex     |       ✔️/❔/❔       |            |
+| Name         | language | Docker/Linux/Windows | AllowProxy |
+| ------------ | :------: | :------------------: | :--------: |
+| ClipBucket   |          |                      |            |
+| CumulusClips |          |                      |            |
+| Emby         |          |       ✔️/❔/❔       |     ✔️     |
+| Jellyfin     |          |       ✔️/❔/❔       |     ✔️     |
+| Plex         |          |       ✔️/❔/❔       |            |
 
 ## 娱乐放松
 
 ### 游戏 Gaming
 
-| Name | Docker/Linux/Windows | AllowProxy |
-| ---- | :------------------: | :--------: |
-
-| Nuked Klan
+| Name       | language | Docker/Linux/Windows | AllowProxy |
+| ---------- | :------: | :------------------: | :--------: |
+| Nuked Klan |          |                      |            |
 
 ## 资源管理 ERP
 
-| Name            | Docker/Linux/Windows | AllowProxy |
-| --------------- | :------------------: | :--------: |
-| Vtiger          |
-| Akaunting       |
-| YetiForce       |
-| SugarCRM        |
-| SuiteCRM        |
-| FrontAccounting |
-| EPESI           |
-| OrangeHRM       |
-| EspoCRM         |
-| EGroupware      |
-| X2CRM           |
-| Group Office    |
-| Zurmo           |
-| webERP          |
-| ChurchCRM       |
-| Tine 2.0        |
-| Sentrifugo      |
-| Zenbership      |
-| IceHrm          |
-| Jorani          |
-
-| Krayin CRM
+| Name            | language | Docker/Linux/Windows | AllowProxy |
+| --------------- | :------: | :------------------: | :--------: |
+| Vtiger          |          |                      |            |
+| Akaunting       |          |                      |            |
+| YetiForce       |          |                      |            |
+| SugarCRM        |          |                      |            |
+| SuiteCRM        |          |                      |            |
+| FrontAccounting |          |                      |            |
+| EPESI           |          |                      |            |
+| OrangeHRM       |          |                      |            |
+| EspoCRM         |          |                      |            |
+| EGroupware      |          |                      |            |
+| X2CRM           |          |                      |            |
+| Group Office    |          |                      |            |
+| Zurmo           |          |                      |            |
+| webERP          |          |                      |            |
+| ChurchCRM       |          |                      |            |
+| Tine 2.0        |          |                      |            |
+| Sentrifugo      |          |                      |            |
+| Zenbership      |          |                      |            |
+| IceHrm          |          |                      |            |
+| Jorani          |          |                      |            |
+| Krayin CRM      |          |                      |            |
 
 ## 广告管理 Ad Management
 
@@ -238,358 +234,338 @@
 
 ## 项目管理 Project Management
 
-| Name               | Docker/Linux/Windows | AllowProxy |
-| ------------------ | :------------------: | :--------: |
-| Feng Office        |
-| Rukovoditel        |
-| qdPM               |
-| Collabtive         |
-| dotProject         |
-| Mantis Bug Tracker |
-| ProjectPier        |
-| Snipe-IT           |
-| Kanboard           |
-| The Bug Genie      |
-| PHProjekt          |
-| TaskFreak          |
-| SOPlanning         |
-| ProjeQtOr          |
-| ZenTao             |
-| phpCollab          |
-| Admidio            |
-| WebCollab          |
-| Traq               |
-| Eventum            |
-| Bugs               |
-| Manage Your Team   |
-| TestLink           |
-
-| Burden
+| Name               | language | Docker/Linux/Windows | AllowProxy |
+| ------------------ | :------: | :------------------: | :--------: |
+| Feng Office        |          |                      |            |
+| Rukovoditel        |          |                      |            |
+| qdPM               |          |                      |            |
+| Collabtive         |          |                      |            |
+| dotProject         |          |                      |            |
+| Mantis Bug Tracker |          |                      |            |
+| ProjectPier        |          |                      |            |
+| Snipe-IT           |          |                      |            |
+| Kanboard           |          |                      |            |
+| The Bug Genie      |          |                      |            |
+| PHProjekt          |          |                      |            |
+| TaskFreak          |          |                      |            |
+| SOPlanning         |          |                      |            |
+| ProjeQtOr          |          |                      |            |
+| ZenTao             |          |                      |            |
+| phpCollab          |          |                      |            |
+| Admidio            |          |                      |            |
+| WebCollab          |          |                      |            |
+| Traq               |          |                      |            |
+| Eventum            |          |                      |            |
+| Bugs               |          |                      |            |
+| Manage Your Team   |          |                      |            |
+| TestLink           |          |                      |            |
+| Burden             |          |                      |            |
 
 ## 内容管理 Portals/CMS
 
-| Name                    | Docker/Linux/Windows | AllowProxy |
-| ----------------------- | :------------------: | :--------: |
-| FoxCMS                  |
-| Joomla                  |
-| Open Real Estate        |
-| Concrete CMS            |
-| MODX                    |
-| e107                    |
-| Drupal Core             |
-| Xoops                   |
-| CMS Made Simple         |
-| PHP-Fusion              |
-| Geeklog                 |
-| Composr                 |
-| Zikula                  |
-| WebsiteBaker            |
-| ProcessWire             |
-| SilverStripe            |
-| PyroCMS                 |
-| Subrion                 |
-| Drupal CMS              |
-| Contao                  |
-| Sitemagic CMS           |
-| ImpressPages            |
-| Quick.CMS               |
-| Redaxscript             |
-| PopojiCMS               |
-| OctoberCMS              |
-| Microweber              |
-| ImpressCMS              |
-| WonderCMS               |
-| Monstra                 |
-| phpwcms                 |
-| Open Business Card      |
-| TYPO3                   |
-| Bludit                  |
-| PluXml                  |
-| SiteCake                |
-| Kopage                  |
-| liveSite                |
-| ExpressionEngine        |
-| Pimcore                 |
-| WBCE CMS                |
-| Bolt                    |
-| Mahara                  |
-| Jamroom                 |
-| Kirby                   |
-| Fork                    |
-| WinterCMS               |
-| Pagekit                 |
-| ClassicPress            |
-| Typesetter              |
-| CSZ CMS                 |
-| Backdrop CMS            |
-| Directus                |
-| Fiyo CMS                |
-| razorCMS                |
-| NukeViet CMS            |
-| Koken                   |
-| Atlantis CMS            |
-| Pluck                   |
-| Plikli CMS              |
-| Croogo                  |
-| Cotonti                 |
-| Zenario                 |
-| InstantCMS              |
-| LEPTON                  |
-| Hotaru CMS              |
-| Anchor                  |
-| CMSimple                |
-| SCHLIX CMS              |
-| appRain                 |
-| ClipperCMS              |
-| GeniXCMS                |
-| Saurus                  |
-| Precurio                |
-| Tiki Wiki CMS Groupware |
-| ZwiiCMS                 |
-| Wolf CMS                |
-
-| SofaWiki
+| Name                    | language | Docker/Linux/Windows | AllowProxy |
+| ----------------------- | :------: | :------------------: | :--------: |
+| FoxCMS                  |          |                      |            |
+| Joomla                  |          |                      |            |
+| Open Real Estate        |          |                      |            |
+| Concrete CMS            |          |                      |            |
+| MODX                    |          |                      |            |
+| e107                    |          |                      |            |
+| Drupal Core             |          |                      |            |
+| Xoops                   |          |                      |            |
+| CMS Made Simple         |          |                      |            |
+| PHP-Fusion              |          |                      |            |
+| Geeklog                 |          |                      |            |
+| Composr                 |          |                      |            |
+| Zikula                  |          |                      |            |
+| WebsiteBaker            |          |                      |            |
+| ProcessWire             |          |                      |            |
+| SilverStripe            |          |                      |            |
+| PyroCMS                 |          |                      |            |
+| Subrion                 |          |                      |            |
+| Drupal CMS              |          |                      |            |
+| Contao                  |          |                      |            |
+| Sitemagic CMS           |          |                      |            |
+| ImpressPages            |          |                      |            |
+| Quick.CMS               |          |                      |            |
+| Redaxscript             |          |                      |            |
+| PopojiCMS               |          |                      |            |
+| OctoberCMS              |          |                      |            |
+| Microweber              |          |                      |            |
+| ImpressCMS              |          |                      |            |
+| WonderCMS               |          |                      |            |
+| Monstra                 |          |                      |            |
+| phpwcms                 |          |                      |            |
+| Open Business Card      |          |                      |            |
+| TYPO3                   |          |                      |            |
+| Bludit                  |          |                      |            |
+| PluXml                  |          |                      |            |
+| SiteCake                |          |                      |            |
+| Kopage                  |          |                      |            |
+| liveSite                |          |                      |            |
+| ExpressionEngine        |          |                      |            |
+| Pimcore                 |          |                      |            |
+| WBCE CMS                |          |                      |            |
+| Bolt                    |          |                      |            |
+| Mahara                  |          |                      |            |
+| Jamroom                 |          |                      |            |
+| Kirby                   |          |                      |            |
+| Fork                    |          |                      |            |
+| WinterCMS               |          |                      |            |
+| Pagekit                 |          |                      |            |
+| ClassicPress            |          |                      |            |
+| Typesetter              |          |                      |            |
+| CSZ CMS                 |          |                      |            |
+| Backdrop CMS            |          |                      |            |
+| Directus                |          |                      |            |
+| Fiyo CMS                |          |                      |            |
+| razorCMS                |          |                      |            |
+| NukeViet CMS            |          |                      |            |
+| Koken                   |          |                      |            |
+| Atlantis CMS            |          |                      |            |
+| Pluck                   |          |                      |            |
+| Plikli CMS              |          |                      |            |
+| Croogo                  |          |                      |            |
+| Cotonti                 |          |                      |            |
+| Zenario                 |          |                      |            |
+| InstantCMS              |          |                      |            |
+| LEPTON                  |          |                      |            |
+| Hotaru CMS              |          |                      |            |
+| Anchor                  |          |                      |            |
+| CMSimple                |          |                      |            |
+| SCHLIX CMS              |          |                      |            |
+| appRain                 |          |                      |            |
+| ClipperCMS              |          |                      |            |
+| GeniXCMS                |          |                      |            |
+| Saurus                  |          |                      |            |
+| Precurio                |          |                      |            |
+| Tiki Wiki CMS Groupware |          |                      |            |
+| ZwiiCMS                 |          |                      |            |
+| Wolf CMS                |          |                      |            |
+| SofaWiki                |          |                      |            |
 
 ## 数据管理 DB Tools
 
-| Name          | Docker/Linux/Windows | AllowProxy |
-| ------------- | :------------------: | :--------: |
-| phpMyAdmin    |
-| MyWebSQL      |
-| SIDU          |
-| Adminer       |
-| SQLiteManager |
-| phpLiteAdmin  |
-| Vty           |
-| adminer       |
-| phpmyadmin    |
-
-| whodb
+| Name          | language | Docker/Linux/Windows | AllowProxy |
+| ------------- | :------: | :------------------: | :--------: |
+| phpMyAdmin    |          |                      |            |
+| MyWebSQL      |          |                      |            |
+| SIDU          |          |                      |            |
+| Adminer       |          |                      |            |
+| SQLiteManager |          |                      |            |
+| phpLiteAdmin  |          |                      |            |
+| Vty           |          |                      |            |
+| adminer       |          |                      |            |
+| phpmyadmin    |          |                      |            |
+| whodb         |          |                      |            |
 
 ## 文件管理 File Management
 
-| Name   | Docker/Linux/Windows | AllowProxy |
-| ------ | :------------------: | :--------: |
-| Arfooo |
-
-| OpenDocMan
+| Name       | language | Docker/Linux/Windows | AllowProxy |
+| ---------- | :------: | :------------------: | :--------: |
+| Arfooo     |          |                      |            |
+| OpenDocMan |          |                      |            |
 
 ## 日历 Calendars
 
-| Name        | Docker/Linux/Windows | AllowProxy |
-| ----------- | :------------------: | :--------: |
-| WebCalendar |
-| Booked      |
-| LuxCal      |
-| SuperCali   |
-
-| Event Schedule
+| Name           | language | Docker/Linux/Windows | AllowProxy |
+| -------------- | :------: | :------------------: | :--------: |
+| WebCalendar    |          |                      |            |
+| Booked         |          |                      |            |
+| LuxCal         |          |                      |            |
+| SuperCali      |          |                      |            |
+| Event Schedule |          |                      |            |
 
 ## 电子邮件 Mails
 
-| Name           | Docker/Linux/Windows | AllowProxy |
-| -------------- | :------------------: | :--------: |
-| SquirrelMail   |
-| OpenNewsletter |
-
-| Postfix Admin
+| Name           | language | Docker/Linux/Windows | AllowProxy |
+| -------------- | :------: | :------------------: | :--------: |
+| SquirrelMail   |          |                      |            |
+| OpenNewsletter |          |                      |            |
+| Postfix Admin  |          |                      |            |
 
 ## 电子商务 E-Commerce
 
-| Name                      | Docker/Linux/Windows | AllowProxy |
-| ------------------------- | :------------------: | :--------: |
-| AbanteCart                |
-| WHMCS                     |
-| ClicShopping AI           |
-| CE Phoenix                |
-| osCommerce                |
-| Zen Cart                  |
-| Loaded Commerce           |
-| PrestaShop                |
-| LiteCart                  |
-| Invoice Ninja             |
-| thirty bees               |
-| Open Source Point of Sale |
-| CubeCart                  |
-| Quick.Cart                |
-| Blesta                    |
-| InvoicePlane              |
-| OpenCart                  |
-| Arastta                   |
-| AlegroCart                |
-| SeoToaster                |
-| Open eShop                |
-| Avactis                   |
-| Thelia 2                  |
-| Zeuscart                  |
-| ClientExec                |
-| Bagisto                   |
-| Logic Invoice             |
-| Magento                   |
-| WhatACart                 |
-| QloApps                   |
-| PEEL SHOPPING             |
-
-| Maian Cart
+| Name                      | language | Docker/Linux/Windows | AllowProxy |
+| ------------------------- | :------: | :------------------: | :--------: |
+| AbanteCart                |          |                      |            |
+| WHMCS                     |          |                      |            |
+| ClicShopping AI           |          |                      |            |
+| CE Phoenix                |          |                      |            |
+| osCommerce                |          |                      |            |
+| Zen Cart                  |          |                      |            |
+| Loaded Commerce           |          |                      |            |
+| PrestaShop                |          |                      |            |
+| LiteCart                  |          |                      |            |
+| Invoice Ninja             |          |                      |            |
+| thirty bees               |          |                      |            |
+| Open Source Point of Sale |          |                      |            |
+| CubeCart                  |          |                      |            |
+| Quick.Cart                |          |                      |            |
+| Blesta                    |          |                      |            |
+| InvoicePlane              |          |                      |            |
+| OpenCart                  |          |                      |            |
+| Arastta                   |          |                      |            |
+| AlegroCart                |          |                      |            |
+| SeoToaster                |          |                      |            |
+| Open eShop                |          |                      |            |
+| Avactis                   |          |                      |            |
+| Thelia 2                  |          |                      |            |
+| Zeuscart                  |          |                      |            |
+| ClientExec                |          |                      |            |
+| Bagisto                   |          |                      |            |
+| Logic Invoice             |          |                      |            |
+| Magento                   |          |                      |            |
+| WhatACart                 |          |                      |            |
+| QloApps                   |          |                      |            |
+| PEEL SHOPPING             |          |                      |            |
+| Maian Cart                |          |                      |            |
 
 ## 访客留言 Guest Books
 
-| Name         | Docker/Linux/Windows | AllowProxy |
-| ------------ | :------------------: | :--------: |
-| VX Guestbook |
-| RicarGBooK   |
-
-| PHP Address Book
+| Name             | language | Docker/Linux/Windows | AllowProxy |
+| ---------------- | :------: | :------------------: | :--------: |
+| VX Guestbook     |          |                      |            |
+| RicarGBooK       |          |                      |            |
+| PHP Address Book |          |                      |            |
 
 ## 客户支持 Customer Support
 
-| Name            | Docker/Linux/Windows | AllowProxy |
-| --------------- | :------------------: | :--------: |
-| osTicket        |
-| HESK            |
-| Vision Helpdesk |
-| Sales Syntax    |
-| HelpDeskZ       |
-| Faveo Helpdesk  |
-| OpenSupports    |
-| phpMyFAQ        |
-| Maian Support   |
-| FreeScout       |
-| UVdesk          |
-| HelpDEZk        |
-| Attendize       |
-
-| Handesk
+| Name            | language | Docker/Linux/Windows | AllowProxy |
+| --------------- | :------: | :------------------: | :--------: |
+| osTicket        |          |                      |            |
+| HESK            |          |                      |            |
+| Vision Helpdesk |          |                      |            |
+| Sales Syntax    |          |                      |            |
+| HelpDeskZ       |          |                      |            |
+| Faveo Helpdesk  |          |                      |            |
+| OpenSupports    |          |                      |            |
+| phpMyFAQ        |          |                      |            |
+| Maian Support   |          |                      |            |
+| FreeScout       |          |                      |            |
+| UVdesk          |          |                      |            |
+| HelpDEZk        |          |                      |            |
+| Attendize       |          |                      |            |
+| Handesk         |          |                      |            |
 
 ## 编程框架 Frameworks
 
-| Name          | Docker/Linux/Windows | AllowProxy |
-| ------------- | :------------------: | :--------: |
-| CodeIgniter   |
-| yii           |
-| Bootstrap     |
-| CakePHP       |
-| Symfony       |
-| Zend          |
-| Kohana        |
-| UIkit         |
-| UserSpice     |
-| Smarty        |
-| HTML Purifier |
-| FuelPHP       |
-| Webasyst      |
-| PRADO         |
-
-| HTML
-
-- Bootstrap|
-  | Node
-- Vue
-- React|
-  | Composer
-- Laravel
-- lumen
+| Name          | language | Docker/Linux/Windows | AllowProxy |
+| ------------- | :------: | :------------------: | :--------: |
+| CodeIgniter   |          |                      |            |
+| yii           |          |                      |            |
+| Bootstrap     |          |                      |            |
+| CakePHP       |          |                      |            |
+| Symfony       |          |                      |            |
+| Zend          |          |                      |            |
+| Kohana        |          |                      |            |
+| UIkit         |          |                      |            |
+| UserSpice     |          |                      |            |
+| Smarty        |          |                      |            |
+| HTML Purifier |          |                      |            |
+| FuelPHP       |          |                      |            |
+| Webasyst      |          |                      |            |
+| PRADO         |          |                      |            |
+| HTML          |          |                      |            |
+| Bootstrap     |          |                      |            |
+| Node          |          |                      |            |
+| Vue           |          |                      |            |
+| React         |          |                      |            |
+| Composer      |          |                      |            |
+| Laravel       |          |                      |            |
+| lumen         |          |                      |            |
 
 ## 博客订阅 RSS
 
-| Name          | Docker/Linux/Windows | AllowProxy |
-| ------------- | :------------------: | :--------: |
-| Tiny Tiny RSS |
-| FreshRSS      |
-| selfoss       |
-| SimplePie     |
-| Miniflux      |
-| Reader Self   |
+| Name          | language | Docker/Linux/Windows | AllowProxy |
+| ------------- | :------: | :------------------: | :--------: |
+| Tiny Tiny RSS |          |                      |            |
+| FreshRSS      |          |                      |            |
+| selfoss       |          |                      |            |
+| SimplePie     |          |                      |            |
+| Miniflux      |          |                      |            |
+| Reader Self   |          |                      |            |
 
 ## 管理面板
 
 ### Docker 管理面板
 
-| Name                              | Docker/Linux/Windows | AllowProxy |
-| --------------------------------- | :------------------: | :--------: |
-| [1Panel](./1Panel/)               |       ✔️/❔/❔       |     ❌     |
-| [DockerCopilot](./DockerCopilot/) |       ✔️/❔/❔       |     ❌     |
-| [DockerUI](./DockerUI/)           |       ✔️/❔/❔       |     ❌     |
-| [Dockge](./Dockge/)               |       ✔️/❔/❔       |     ❌     |
-| [DPanel](./DPanel/)               |       ✔️/❔/❔       |     ❌     |
-| [Portainer](./Portainer/)         |       ✔️/❔/❔       |     ✔️     |
+| Name                              | language | Docker/Linux/Windows | AllowProxy |
+| --------------------------------- | :------: | :------------------: | :--------: |
+| [1Panel](./1Panel/)               |          |       ✔️/❔/❔       |     ❌     |
+| [DockerCopilot](./DockerCopilot/) |          |       ✔️/❔/❔       |     ❌     |
+| [DockerUI](./DockerUI/)           |          |       ✔️/❔/❔       |     ❌     |
+| [Dockge](./Dockge/)               |          |       ✔️/❔/❔       |     ❌     |
+| [DPanel](./DPanel/)               |          |       ✔️/❔/❔       |     ❌     |
+| [Portainer](./Portainer/)         |          |       ✔️/❔/❔       |     ✔️     |
 
-## 云盘挂载
+### Nginx 管理面板
 
-| Name     | Docker/Linux/Windows | AllowProxy |
-| -------- | :------------------: | :--------: |
-| alist    |                      |            |
-| cuteone  |                      |            |
-| alist    |
-| cuteone  |
-| cuteoneP |
-| olaindex |
-| oneindex |
-
-| oneindexM
+| Name       | language | Docker/Linux/Windows | AllowProxy |
+| ---------- | :------: | :------------------: | :--------: |
+| nginxWebUI |          |                      |            |
 
 ## 其它 Others
 
-| Name                  | Docker/Linux/Windows | AllowProxy |
-| --------------------- | :------------------: | :--------: |
-| Seo Panel             |
-| SLiMS                 |
-| Open Journal Systems  |
-| Question2Answer       |
-| WeBid                 |
-| Form Tools            |
-| SPIP                  |
-| GLPI                  |
-| PASTE                 |
-| webtrees              |
-| Soholaunch            |
-| wallabag              |
-| Firefly III           |
-| PhpGedView            |
-| InfiniteWP            |
-| Agora-Project         |
-| EasyAppointments      |
-| Kimai                 |
-| DomainMOD             |
-| u-Auctions            |
-| Commentics            |
-| Fusio                 |
-| TastyIgniter          |
-| XCloner               |
-| Omeka S               |
-| LibreHealth EHR       |
-| HuMo-genealogy        |
-| phpDocumentor         |
-| Open Monograph Press  |
-| XMS                   |
-| Unmark                |
-| Open Preprint Systems |
-| baszel                |
-| carbon-forum          |
-| coolify               |
-| flarum                |
-| froxlor               |
-| gitea                 |
-| gitlab                |
-| gotty                 |
-| iptvnator             |
-| jenkins               |
-| jupter                |
-| lychee                |
-| mantic                |
-| monsta-ftp            |
-| mybb                  |
-| nginx                 |
-| nginxwebui            |
-| pocketMine-MP         |
-| PrestaShop            |
-| reader                |
-| redmine               |
-| speedtest-x           |
-| sqlbuddy              |
-| surveyking            |
-| teemii                |
-| torrserver            |
-| wallos                |
-
-| WebFTP
+| Name                  | language | Docker/Linux/Windows | AllowProxy |
+| --------------------- | :------: | :------------------: | :--------: |
+| Seo Panel             |          |                      |            |
+| SLiMS                 |          |                      |            |
+| Open Journal Systems  |          |                      |            |
+| Question2Answer       |          |                      |            |
+| WeBid                 |          |                      |            |
+| Form Tools            |          |                      |            |
+| SPIP                  |          |                      |            |
+| GLPI                  |          |                      |            |
+| PASTE                 |          |                      |            |
+| webtrees              |          |                      |            |
+| Soholaunch            |          |                      |            |
+| wallabag              |          |                      |            |
+| Firefly III           |          |                      |            |
+| PhpGedView            |          |                      |            |
+| InfiniteWP            |          |                      |            |
+| Agora-Project         |          |                      |            |
+| EasyAppointments      |          |                      |            |
+| Kimai                 |          |                      |            |
+| DomainMOD             |          |                      |            |
+| u-Auctions            |          |                      |            |
+| Commentics            |          |                      |            |
+| Fusio                 |          |                      |            |
+| TastyIgniter          |          |                      |            |
+| XCloner               |          |                      |            |
+| Omeka S               |          |                      |            |
+| LibreHealth EHR       |          |                      |            |
+| HuMo-genealogy        |          |                      |            |
+| phpDocumentor         |          |                      |            |
+| Open Monograph Press  |          |                      |            |
+| XMS                   |          |                      |            |
+| Unmark                |          |                      |            |
+| Open Preprint Systems |          |                      |            |
+| baszel                |          |                      |            |
+| carbon-forum          |          |                      |            |
+| coolify               |          |                      |            |
+| flarum                |          |                      |            |
+| froxlor               |          |                      |            |
+| gitea                 |          |                      |            |
+| gitlab                |          |                      |            |
+| gotty                 |          |                      |            |
+| iptvnator             |          |                      |            |
+| jenkins               |          |                      |            |
+| jupter                |          |                      |            |
+| lychee                |          |                      |            |
+| mantic                |          |                      |            |
+| monsta-ftp            |          |                      |            |
+| mybb                  |          |                      |            |
+| nginx                 |          |                      |            |
+| nginxwebui            |          |                      |            |
+| pocketMine-MP         |          |                      |            |
+| PrestaShop            |          |                      |            |
+| reader                |          |                      |            |
+| redmine               |          |                      |            |
+| speedtest-x           |          |                      |            |
+| sqlbuddy              |          |                      |            |
+| surveyking            |          |                      |            |
+| teemii                |          |                      |            |
+| torrserver            |          |                      |            |
+| wallos                |          |                      |            |
+| WebFTP                |          |                      |            |
