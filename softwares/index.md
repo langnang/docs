@@ -233,6 +233,18 @@
 | monsta-ftp |                    |                      |            |
 | WebFTP     |                    |                      |            |
 
+### 密码
+
+| Name        | language/framework | Docker/Linux/Windows | AllowProxy |
+| ----------- | :----------------: | :------------------: | :--------: |
+| Vaultwarden |                    |       ✔️/❔/❔       |     ✔️     |
+
+### 代理
+
+| Name  | language/framework | Docker/Linux/Windows | AllowProxy |
+| ----- | :----------------: | :------------------: | :--------: |
+| Caddy |                    |       ✔️/❔/❔       |            |
+
 ## 资源管理 ERP
 
 | Name            | language/framework | Docker/Linux/Windows | AllowProxy |
@@ -377,6 +389,15 @@
 | ZwiiCMS                 |                    |                      |            |
 | Wolf CMS                |                    |                      |            |
 | SofaWiki                |                    |                      |            |
+
+## 编程开发
+
+### 代码托管
+
+| Name   | language/framework | Docker/Linux/Windows | AllowProxy |
+| ------ | :----------------: | :------------------: | :--------: |
+| Gitea  |                    |                      |            |
+| GitLab |                    |                      |            |
 
 ## 数据管理 DB Tools
 
