@@ -430,13 +430,13 @@
 
 ## 管理面板
 
-<!--
 - [1Panel](./1Panel/)
 - [DockerCopilot](./DockerCopilot/)
 - [Dockge](./Dockge/)
 - [DPanel](./DPanel/)
 - [Portainer](./Portainer/)
 - [DockerUI](./DockerUI/)
+<!--
 
 ## 云盘挂载
 
