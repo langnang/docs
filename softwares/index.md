@@ -85,20 +85,17 @@
 
 ## 导航门户 Navigation
 
-| Name      | language/framework | Docker/Linux/Windows | AllowProxy |
-| --------- | :----------------: | :------------------: | :--------: |
-| Homepage  |                    |                      |            |
-| heimdall  |                    |                      |            |
-| flare     |                    |                      |            |
-| dashy     |                    |                      |            |
-| Homarr    |                    |                      |            |
-| onenav    |                    |                      |            |
-| heimdall  |                    |                      |            |
-| flare     |                    |                      |            |
-| dashy     |                    |                      |            |
-| homepage  |                    |                      |            |
-| Homarr    |                    |                      |            |
-| sun-panel |                    |                      |            |
+| Name                      | language/framework | Docker/Linux/Windows | AllowProxy |
+| ------------------------- | :----------------: | :------------------: | :--------: |
+| [Dashy](./Dashy/)         |                    |       ✔️/❔/❔       |     ❌     |
+| [Flare](./Flare/)         |                    |       ✔️/❔/❔       |     ❌     |
+| [Heimdall](./Heimdall/)   |                    |       ✔️/❔/❔       |     ❌     |
+| [Homarr](./Homarr/)       |                    |       ✔️/❔/❔       |     ❌     |
+| [Homer](./Homer/)         |                    |       ✔️/❔/❔       |     ✔️     |
+| Homepage                  |                    |       ✔️/❔/❔       |     ❌     |
+| OneNav                    |                    |                      |            |
+| [Sun-Panel](./Sun-Panel/) |                    |       ✔️/❔/❔       |     ❌     |
+| yal                       |                    |                      |            |
 
 ## 云盘挂载 Disk Mounting
 
@@ -141,7 +138,7 @@
 | Savsoft Quiz |                    |                      |            |
 | openSIS      |                    |                      |            |
 
-## 问卷试题 Question
+## 试题问卷 Question
 
 > 民意调研 Polls and Analytics
 

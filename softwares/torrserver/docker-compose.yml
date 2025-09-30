@@ -1,6 +1,6 @@
 services:
   torrserver:
-    image: ghcr.io/yourok/torrserver
+    image: yourok/torrserver
     container_name: torrserver
     ports:
       - "0:5665"
