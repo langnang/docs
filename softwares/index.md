@@ -16,26 +16,26 @@
 
 ### 交流博客 Blogs
 
-| Name                                                            | language/framework | Docker/Linux/Windows | AllowProxy |
-| --------------------------------------------------------------- | :----------------: | :------------------: | :--------: |
-| ![](https://img.shields.io/badge/blog-default) php.typecho-v1.2 |                    |                      |            |
-| ![](https://img.shields.io/badge/blog-default) php.wordpress-v6 |                    |                      |            |
-| WordPress                                                       |                    |                      |            |
-| Pubvana                                                         |                    |                      |            |
-| Serendipity                                                     |                    |                      |            |
-| Dotclear                                                        |                    |                      |            |
-| Textpattern                                                     |                    |                      |            |
-| b2evolution                                                     |                    |                      |            |
-| HTMLy                                                           |                    |                      |            |
-| Nibbleblog                                                      |                    |                      |            |
-| Nucleus                                                         |                    |                      |            |
-| Chyrp                                                           |                    |                      |            |
-| FlatPress                                                       |                    |                      |            |
-| PivotX                                                          |                    |                      |            |
-| Leafpub                                                         |                    |                      |            |
-| mediawiki                                                       |                    |                      |            |
-| typecho                                                         |                    |                      |            |
-| wordpress                                                       |                    |                      |            |
+| Name             | language/framework | Docker/Linux/Windows | AllowProxy |
+| ---------------- | :----------------: | :------------------: | :--------: |
+| php.typecho-v1.2 |                    |                      |            |
+| php.wordpress-v6 |                    |                      |            |
+| WordPress        |                    |                      |            |
+| Pubvana          |                    |                      |            |
+| Serendipity      |                    |                      |            |
+| Dotclear         |                    |                      |            |
+| Textpattern      |                    |                      |            |
+| b2evolution      |                    |                      |            |
+| HTMLy            |                    |                      |            |
+| Nibbleblog       |                    |                      |            |
+| Nucleus          |                    |                      |            |
+| Chyrp            |                    |                      |            |
+| FlatPress        |                    |                      |            |
+| PivotX           |                    |                      |            |
+| Leafpub          |                    |                      |            |
+| mediawiki        |                    |                      |            |
+| typecho          |                    |                      |            |
+| wordpress        |                    |                      |            |
 
 ### 社交论坛 Forums
 
@@ -252,6 +252,18 @@
 | Name                          | language/framework | Docker/Linux/Windows | AllowProxy |
 | ----------------------------- | :----------------: | :------------------: | :--------: |
 | Vaultwarden: 开源密码管理工具 |                    |       ✔️/❔/❔       |     ✔️     |
+
+### 监控
+
+| Name    | language/framework | Docker/Linux/Windows | AllowProxy |
+| ------- | :----------------: | :------------------: | :--------: |
+| Glances |                    |       ✔️/❔/❔       |            |
+
+### 检测
+
+| Name      | language/framework | Docker/Linux/Windows | AllowProxy |
+| --------- | :----------------: | :------------------: | :--------: |
+| SmartPing |                    |       ✔️/❔/❔       |     ⁉️     |
 
 ### 代理
 

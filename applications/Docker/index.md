@@ -133,7 +133,7 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docke
 
 ```shell
 sudo apt-get update
-sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose
 ```
 
 7.  启动并验证 Docker 安装
@@ -284,7 +284,7 @@ Macvlan 模式：每个容器拥有独立的 MAC 地址和 IP 地址。
 
 - host:host.docker.internal
 
-## 议题
+## FAQ 常见问题
 
 - `This can prevent Docker from starting. Use at your own risk.`
 - `connect ENOENT \\.\pipe\dockerBackendApiServer`
@@ -294,3 +294,35 @@ Macvlan 模式：每个容器拥有独立的 MAC 地址和 IP 地址。
 - `Docker Desktop distro installation failed`
 - `WARNING: daemon is not using the default seccomp pro`
 - `Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)`
+
+### `permission denied while trying to connect to the Docker daemon socket`
+
+1. 切换到 root 用户
+
+最直接的方法是切换到 root 用户来执行 Docker 命令。
+
+```sh
+su root
+```
+
+输入 root 用户的密码后，你可以正常操作 Docker 命令。
+
+2. 将当前用户添加到 Docker 用户组
+
+另一种方法是将当前用户添加到 Docker 用户组，这样就不需要每次都使用 sudo。
+
+```sh
+# 如果 docker 用户组不存在，创建它
+sudo groupadd docker
+# 将当前用户添加到 docker 用户组
+sudo gpasswd -a $USER docker
+sudo usermod -aG docker $USER
+# 更新用户组
+newgrp docker
+```
+
+### Docker 连接宿主机
+
+IP: host.docker.internal
+
+### DOcker 连接宿主机局域网内机器

@@ -6,20 +6,20 @@
 
 **安装依赖**：确保系统已安装 curl。
 
-```
+```sh
 sudo apt-get install curl # Ubuntu 系列
 sudo yum install curl # CentOS 系列
 ```
 
 **下载并安装** Cpolar：
 
-```
-curl -L <https://www.cpolar.com/static/downloads/install-release-cpolar.sh> | sudo bash
+```sh
+curl -L https://www.cpolar.com/static/downloads/install-release-cpolar.sh | sudo bash
 ```
 
 **验证安装**：运行以下命令查看版本号，显示版本号即表示安装成功。
 
-```
+```sh
 cpolar version
 ```
 
