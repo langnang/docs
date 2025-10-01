@@ -184,18 +184,32 @@
 | Jellyfin     |                    |       ✔️/❔/❔       |     ✔️     |
 | Plex         |                    |       ✔️/❔/❔       |            |
 
+### 视频工具
+
 ### 音乐 Music
 
-| Name     | language/framework | Docker/Linux/Windows | AllowProxy |
-| -------- | :----------------: | :------------------: | :--------: |
-| Impleo   |                    |                      |            |
-| Castopod |                    |                      |            |
+| Name                              | language/framework | Docker/Linux/Windows | AllowProxy |
+| --------------------------------- | :----------------: | :------------------: | :--------: |
+| Impleo                            |                    |                      |            |
+| Castopod                          |                    |                      |            |
+| Navidrome: 音乐媒体项目           |
+| Music-tag-Web: 音乐元数据刮削工具 |
+
+### 音乐工具
 
 ### 漫画
 
-| Name   | language/framework | Docker/Linux/Windows | AllowProxy |
-| ------ | :----------------: | :------------------: | :--------: |
-| Teemii |                    |                      |            |
+| Name                | language/framework | Docker/Linux/Windows | AllowProxy |
+| ------------------- | :----------------: | :------------------: | :--------: |
+| Teemii              |                    |                      |            |
+| Komga: 漫画自托管库 |
+| Bungumi             |
+
+### 图书
+
+| Name                   | language/framework | Docker/Linux/Windows | AllowProxy |
+| ---------------------- | :----------------: | :------------------: | :--------: |
+| TaleBook: 书籍管理工具 |
 
 ### 小说
 
@@ -213,9 +227,12 @@
 
 ### 下载
 
-| Name       | language/framework | Docker/Linux/Windows | AllowProxy |
-| ---------- | :----------------: | :------------------: | :--------: |
-| torrserver |                    |                      |            |
+| Name        | language/framework | Docker/Linux/Windows | AllowProxy |
+| ----------- | :----------------: | :------------------: | :--------: |
+| torrserver  |                    |                      |            |
+| Qbittorrent |                    |                      |            |
+|             |                    |                      |            |
+|             |                    |                      |            |
 
 ### 终端
 
@@ -232,9 +249,9 @@
 
 ### 密码
 
-| Name        | language/framework | Docker/Linux/Windows | AllowProxy |
-| ----------- | :----------------: | :------------------: | :--------: |
-| Vaultwarden |                    |       ✔️/❔/❔       |     ✔️     |
+| Name                          | language/framework | Docker/Linux/Windows | AllowProxy |
+| ----------------------------- | :----------------: | :------------------: | :--------: |
+| Vaultwarden: 开源密码管理工具 |                    |       ✔️/❔/❔       |     ✔️     |
 
 ### 代理
 
@@ -564,58 +581,68 @@
 
 ## 其它 Others
 
-| Name                  | language/framework | Docker/Linux/Windows | AllowProxy |
-| --------------------- | :----------------: | :------------------: | :--------: |
-| Seo Panel             |                    |                      |            |
-| SLiMS                 |                    |                      |            |
-| Open Journal Systems  |                    |                      |            |
-| Question2Answer       |                    |                      |            |
-| WeBid                 |                    |                      |            |
-| Form Tools            |                    |                      |            |
-| SPIP                  |                    |                      |            |
-| GLPI                  |                    |                      |            |
-| PASTE                 |                    |                      |            |
-| webtrees              |                    |                      |            |
-| Soholaunch            |                    |                      |            |
-| wallabag              |                    |                      |            |
-| Firefly III           |                    |                      |            |
-| PhpGedView            |                    |                      |            |
-| InfiniteWP            |                    |                      |            |
-| Agora-Project         |                    |                      |            |
-| EasyAppointments      |                    |                      |            |
-| Kimai                 |                    |                      |            |
-| DomainMOD             |                    |                      |            |
-| u-Auctions            |                    |                      |            |
-| Commentics            |                    |                      |            |
-| Fusio                 |                    |                      |            |
-| TastyIgniter          |                    |                      |            |
-| XCloner               |                    |                      |            |
-| Omeka S               |                    |                      |            |
-| LibreHealth EHR       |                    |                      |            |
-| HuMo-genealogy        |                    |                      |            |
-| phpDocumentor         |                    |                      |            |
-| Open Monograph Press  |                    |                      |            |
-| XMS                   |                    |                      |            |
-| Unmark                |                    |                      |            |
-| Open Preprint Systems |                    |                      |            |
-| baszel                |                    |                      |            |
-| carbon-forum          |                    |                      |            |
-| coolify               |                    |                      |            |
-| flarum                |                    |                      |            |
-| froxlor               |                    |                      |            |
-| gitea                 |                    |                      |            |
-| gitlab                |                    |                      |            |
-| iptvnator             |                    |                      |            |
-| jenkins               |                    |                      |            |
-| jupter                |                    |                      |            |
-| lychee                |                    |                      |            |
-| mantic                |                    |                      |            |
-| mybb                  |                    |                      |            |
-| nginx                 |                    |                      |            |
-| nginxwebui            |                    |                      |            |
-| pocketMine-MP         |                    |                      |            |
-| PrestaShop            |                    |                      |            |
-| redmine               |                    |                      |            |
-| speedtest-x           |                    |                      |            |
-| sqlbuddy              |                    |                      |            |
-| wallos                |                    |                      |            |
+| Name                                        | language/framework | Docker/Linux/Windows | AllowProxy |
+| ------------------------------------------- | :----------------: | :------------------: | :--------: |
+| Audibookshelf: 有声读物和播客服务器         |
+| Cat                                         |
+| Open WebUI: 基于 ollama 的 AI 工作站        |
+| HomeAssistant: HA 智能中枢                  |
+| TV-Helper: 基于远程 ADB 的安卓 APK 安装工具 |
+| Seo Panel                                   |                    |                      |            |
+| SLiMS                                       |                    |                      |            |
+| Open Journal Systems                        |                    |                      |            |
+| Question2Answer                             |                    |                      |            |
+| WeBid                                       |                    |                      |            |
+| Form Tools                                  |                    |                      |            |
+| SPIP                                        |                    |                      |            |
+| GLPI                                        |                    |                      |            |
+| PASTE                                       |                    |                      |            |
+| webtrees                                    |                    |                      |            |
+| Soholaunch                                  |                    |                      |            |
+| wallabag                                    |                    |                      |            |
+| Firefly III                                 |                    |                      |            |
+| PhpGedView                                  |                    |                      |            |
+| InfiniteWP                                  |                    |                      |            |
+| Agora-Project                               |                    |                      |            |
+| EasyAppointments                            |                    |                      |            |
+| Kimai                                       |                    |                      |            |
+| DomainMOD                                   |                    |                      |            |
+| u-Auctions                                  |                    |                      |            |
+| Commentics                                  |                    |                      |            |
+| Fusio                                       |                    |                      |            |
+| TastyIgniter                                |                    |                      |            |
+| XCloner                                     |                    |                      |            |
+| Omeka S                                     |                    |                      |            |
+| LibreHealth EHR                             |                    |                      |            |
+| HuMo-genealogy                              |                    |                      |            |
+| phpDocumentor                               |                    |                      |            |
+| Open Monograph Press                        |                    |                      |            |
+| XMS                                         |                    |                      |            |
+| Unmark                                      |                    |                      |            |
+| Open Preprint Systems                       |                    |                      |            |
+| baszel                                      |                    |                      |            |
+| carbon-forum                                |                    |                      |            |
+| coolify                                     |                    |                      |            |
+| flarum                                      |                    |                      |            |
+| froxlor                                     |                    |                      |            |
+| gitea                                       |                    |                      |            |
+| gitlab                                      |                    |                      |            |
+| iptvnator                                   |                    |                      |            |
+| jenkins                                     |                    |                      |            |
+| jupter                                      |                    |                      |            |
+| lychee                                      |                    |                      |            |
+| mantic                                      |                    |                      |            |
+| mybb                                        |                    |                      |            |
+| nginx                                       |                    |                      |            |
+| nginxwebui                                  |                    |                      |            |
+| pocketMine-MP                               |                    |                      |            |
+| PrestaShop                                  |                    |                      |            |
+| redmine                                     |                    |                      |            |
+| speedtest-x                                 |                    |                      |            |
+| sqlbuddy                                    |                    |                      |            |
+| wallos                                      |                    |                      |            |
+| Nastools: 流媒体影音资源搜索、下载工具      |                    |                      |            |
+| CookieCloud: CK 同步工具                    |                    |                      |            |
+| UpSnap: WOL 工具                            |
+| WatchTower: 容器更新工具                    |
+| QD: 签到                                    |
