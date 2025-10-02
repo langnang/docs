@@ -1,5 +1,5 @@
 services:
-  Portainer:
+  portainer:
     image: 6053537/portainer-ce:latest
     container_name: portainer
     ports:
