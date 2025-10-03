@@ -227,18 +227,30 @@
 
 ### 下载
 
-| Name        | language/framework | Docker/Linux/Windows | Proxy |
-| ----------- | :----------------: | :------------------: | :---: |
-| torrserver  |                    |                      |       |
-| Qbittorrent |                    |                      |       |
-|             |                    |                      |       |
-|             |                    |                      |       |
+| Name                          | language/framework | Docker/Linux/Windows | Proxy |
+| ----------------------------- | :----------------: | :------------------: | :---: |
+| [Aria2](./Aria2/)             |                    |       ✔️/❔/❔       |  ✔️   |
+| [qBittorrent](./qbittorrent/) |                    |       ✔️/❔/❔       |  ✔️   |
+| rTorrent                      |                    |                      |       |
+| ruTorrent                     |                    |                      |       |
+| torrserver                    |                    |                      |       |
+| Transmission                  |                    |       ✔️/❔/❔       |  ❌   |
+| 迅雷                          |                    |                      |       |
+| ruTorrent                     |                    |                      |       |
+|                               |                    |                      |       |
+|                               |                    |                      |       |
+
+### 种子
+
+| Name    | language/framework | Docker/Linux/Windows | Proxy |
+| ------- | :----------------: | :------------------: | :---: |
+| Jackett |                    |       ✔️/❔/❔       |  ❌   |
 
 ### 终端
 
 | Name  | language/framework | Docker/Linux/Windows | Proxy |
 | ----- | :----------------: | :------------------: | :---: |
-| Gotty |                    |                      |       |
+| Gotty |                    |       ✔️/❔/❔       |  ✔️   |
 
 ### FTP
 
@@ -595,11 +607,11 @@
 
 | Name                                        | language/framework | Docker/Linux/Windows | Proxy |
 | ------------------------------------------- | :----------------: | :------------------: | :---: |
-| Audibookshelf: 有声读物和播客服务器         |
-| Cat                                         |
-| Open WebUI: 基于 ollama 的 AI 工作站        |
-| HomeAssistant: HA 智能中枢                  |
-| TV-Helper: 基于远程 ADB 的安卓 APK 安装工具 |
+| Audibookshelf: 有声读物和播客服务器         |                    |                      |       |
+| Cat                                         |                    |                      |       |
+| Open WebUI: 基于 ollama 的 AI 工作站        |                    |                      |       |
+| HomeAssistant: HA 智能中枢                  |                    |       ✔️/❔/❔       |  ❌   |
+| TV-Helper: 基于远程 ADB 的安卓 APK 安装工具 |                    |                      |       |
 | Seo Panel                                   |                    |                      |       |
 | SLiMS                                       |                    |                      |       |
 | Open Journal Systems                        |                    |                      |       |

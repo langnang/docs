@@ -1,4 +1,4 @@
-# Gotty
+# Software
 
 ## Install
 
