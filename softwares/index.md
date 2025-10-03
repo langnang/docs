@@ -138,13 +138,14 @@
 | Savsoft Quiz |                    |                      |       |
 | openSIS      |                    |                      |       |
 
-## 试题问卷 Question
+## 试题问卷 Exam
 
 > 民意调研 Polls and Analytics
 
 | Name                        | language/framework | Docker/Linux/Windows | Proxy |
 | --------------------------- | :----------------: | :------------------: | :---: |
-| [SurveyKing](./SurveyKing/) |                    |                      |       |
+| [SurveyKing](./SurveyKing/) |                    |       ✔️/❔/❔       |  ❌   |
+| aishuati                    |                    |                      |       |
 | LimeSurvey                  |                    |                      |       |
 | Matomo                      |                    |                      |       |
 | LittlePoll                  |                    |                      |       |
@@ -156,6 +157,16 @@
 | CJ Dynamic Poll             |                    |                      |       |
 | Little Software Stats       |                    |                      |       |
 | Framadate                   |                    |                      |       |
+| X-School                    |                    |       ❌/❔/❔       |       |
+| ExamSystem                  |                    |       ❌/❔/❔       |       |
+| EasyExam                    |                    |       ❌/❔/❔       |       |
+| [TCExam](./TCExam/)         |                    |       ✔️/❔/❔       |       |
+| [Answer](./Answer/)         |                    |       ✔️/❔/❔       |  ❌   |
+| LearningSystem              |                    |                      |       |
+| sunlicp/topic               |                    |                      |       |
+| Question2Answer             |                    |       ❔/❔/❔       |       |
+| [Canvas](./Canvas/)         |                    |       ✔️/❔/❔       |       |
+|                             |                    |                      |       |
 
 ## 图像画廊 Image Galleries
 
@@ -185,6 +196,10 @@
 | Plex         |                    |       ✔️/❔/❔       |       |
 
 ### 视频工具
+
+| Name       | language/framework | Docker/Linux/Windows | Proxy |
+| ---------- | :----------------: | :------------------: | :---: |
+| MoviePilot |                    |       ✔️/❔/❔       |  ✔️   |
 
 ### 音乐 Music
 
@@ -598,10 +613,11 @@
 
 ### Nginx 管理面板
 
-| Name       | language/framework | Docker/Linux/Windows | Proxy |
-| ---------- | :----------------: | :------------------: | :---: |
-| NginxWebUI |                    |                      |       |
-| NginxUI    |                    |                      |       |
+| Name                | language/framework | Docker/Linux/Windows | Proxy |
+| ------------------- | :----------------: | :------------------: | :---: |
+| NginxWebUI          |                    |                      |       |
+| NginxUI             |                    |                      |       |
+| Nginx proxy manager |                    |                      |       |
 
 ## 其它 Others
 
