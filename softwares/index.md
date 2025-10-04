@@ -463,13 +463,30 @@
 | SQLiteManager |                    |                      |       |
 | phpLiteAdmin  |                    |                      |       |
 | Vty           |                    |                      |       |
-| Adminer       |                    |                      |       |
-| phpmyadmin    |                    |                      |       |
-| whodb         |                    |                      |       |
+| Adminer       |                    |       ✔️/❔/❔       |  ✔️   |
+| phpmyadmin    |                    |       ✔️/❔/❔       |       |
+| whodb         |                    |       ✔️/❔/❔       |       |
 
 ### 数据爬虫
 
+| Name                        | language/framework | Docker/Linux/Windows | Proxy |
+| --------------------------- | :----------------: | :------------------: | :---: |
+| [Crawlab](./Crawlab/)       |                    |       ✔️/❔/❔       |       |
+| [SpiderFlow](./SpiderFlow/) |                    |       ✔️/❔/❔       |       |
+| Scrapy                      |                    |                      |       |
+| Nutch                       |                    |       ✔️/❔/❔       |       |
+| Magnetboard                 |                    |       ✔️/❔/❔       |       |
+| feapder                     |                    |                      |       |
+
 ### 数据可视化
+
+| Name | language/framework | Docker/Linux/Windows | Proxy |
+| ---- | :----------------: | :------------------: | :---: |
+|      |                    |                      |       |
+|      |                    |                      |       |
+|      |                    |                      |       |
+|      |                    |                      |       |
+|      |                    |                      |       |
 
 ## 文件管理 File Management
 
@@ -613,11 +630,11 @@
 
 ### Nginx 管理面板
 
-| Name                | language/framework | Docker/Linux/Windows | Proxy |
-| ------------------- | :----------------: | :------------------: | :---: |
-| NginxWebUI          |                    |                      |       |
-| NginxUI             |                    |                      |       |
-| Nginx proxy manager |                    |                      |       |
+| Name                                          | language/framework | Docker/Linux/Windows | Proxy |
+| --------------------------------------------- | :----------------: | :------------------: | :---: |
+| NginxWebUI                                    |                    |       ✔️/❔/❔       |  ❌   |
+| NginxUI                                       |                    |       ✔️/❔/❔       |  ❌   |
+| [Nginx Proxy Manager](./Nginx_Proxy_Manager/) |                    |       ✔️/❔/❔       |  ❌   |
 
 ## 其它 Others
 
@@ -683,6 +700,6 @@
 | wallos                                      |                    |                      |       |
 | Nastools: 流媒体影音资源搜索、下载工具      |                    |                      |       |
 | CookieCloud: CK 同步工具                    |                    |                      |       |
-| UpSnap: WOL 工具                            |
-| WatchTower: 容器更新工具                    |
-| QD: 签到                                    |
+| UpSnap: WOL 工具                            |                    |                      |       |
+| WatchTower: 容器更新工具                    |                    |                      |       |
+| QD: 签到                                    |                    |                      |       |

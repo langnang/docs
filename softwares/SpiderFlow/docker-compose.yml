@@ -1,0 +1,34 @@
+services:
+  spider-flow:
+    image: wbsu2003/spider-flow
+    container_name: spider-flow
+    ports:
+      - 0:8088
+    environment:
+      - SPRING_DATASOURCE_DRIVER-CLASS-NAME=com.mysql.jdbc.Driver
+      - SPRING_DATASOURCE_USERNAME=spider
+      - SPRING_DATASOURCE_PASSWORD=YourStrongPassword
+      - SPRING_DATASOURCE_URL=jdbc:mysql://spider-db:3306/spiderflow?useSSL=false&allowPublicKeyRetrieval=true
+    depends_on:
+      - spider-db
+    restart: unless-stopped
+    networks:
+      - software-network
+
+  spider-db:
+    image: mysql:8.0
+    container_name: spider-db
+    volumes:
+      - ./_/var/lib/mysql:/var/lib/mysql
+      - ./_/docker-entrypoint-initdb.d/init.sql:/docker-entrypoint-initdb.d/init.sql
+    environment:
+      - MYSQL_ROOT_PASSWORD=RootPassword
+      - MYSQL_DATABASE=spiderflow
+      - MYSQL_USER=spider
+      - MYSQL_PASSWORD=YourStrongPassword
+    restart: unless-stopped
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true

@@ -1,0 +1,48 @@
+services:
+  crawlab:
+    image: tikazyq/crawlab:latest
+    container_name: crawlab
+    environment:
+      CRAWLAB_API_ADDRESS: "localhost:8000"
+      CRAWLAB_SERVER_MASTER: "Y"
+      CRAWLAB_MONGO_HOST: "mongo"
+      CRAWLAB_REDIS_ADDRESS: "redis"
+    ports:
+      - "8080:8080"
+      - "8000:8000"
+    depends_on:
+      - mongo
+      - redis
+    restart: unless-stopped
+    networks:
+      - software-network
+  crawlab-worker:
+    image: tikazyq/crawlab:latest
+    container_name: crawlab-worker
+    environment:
+      CRAWLAB_SERVER_MASTER: "N"
+      CRAWLAB_MONGO_HOST: "mongo"
+      CRAWLAB_REDIS_ADDRESS: "redis"
+    depends_on:
+      - mongo
+      - redis
+    restart: unless-stopped
+    networks:
+      - software-network
+  mongo:
+    image: mongo:latest
+    ports:
+      - "0:27017"
+    restart: unless-stopped
+    networks:
+      - software-network
+  redis:
+    image: redis:latest
+    ports:
+      - "0:6379"
+    restart: unless-stopped
+    networks:
+      - software-network
+networks:
+  software-network:
+    external: true
