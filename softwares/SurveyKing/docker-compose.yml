@@ -7,7 +7,7 @@ services:
       - ./_/app/logs:/app/logs # 运行日志
       - ./_/app/db:/app/db # 数据库文件
     ports:
-      - 0:1991 # 冒号左侧可改
+      - 1991:1991 # 冒号左侧可改
     restart: unless-stopped
     networks:
       - software-network
