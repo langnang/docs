@@ -21,25 +21,25 @@ services:
       - ENVIRONMENT=production
       - ADMIN_PASSWORD=admin123
 
-      # -----------------------------
-      # 代理配置（可选）
-      # -----------------------------
-      - HTTP_PROXY=http://your-proxy:port
-      - HTTPS_PROXY=http://your-proxy:port
-      - NO_PROXY=localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
+      # # -----------------------------
+      # # 代理配置（可选）
+      # # -----------------------------
+      # - HTTP_PROXY=http://your-proxy:port
+      # - HTTPS_PROXY=http://your-proxy:port
+      # - NO_PROXY=localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
 
-      # -----------------------------
-      # Telegram 机器人配置（可选）
-      # -----------------------------
-      - TELEGRAM_BOT_TOKEN=你的Bot_Token
-      - TELEGRAM_BOT_WEBHOOK_URL=
-      - TELEGRAM_BOT_WEBHOOK_SECRET=
+      # # -----------------------------
+      # # Telegram 机器人配置（可选）
+      # # -----------------------------
+      # - TELEGRAM_BOT_TOKEN=你的Bot_Token
+      # - TELEGRAM_BOT_WEBHOOK_URL=
+      # - TELEGRAM_BOT_WEBHOOK_SECRET=
 
-      # -----------------------------
-      # CloudDrive2 配置（可选）
-      # -----------------------------
-      - CLOUDDRIVE_HOST=你的CD2主机地址
-      - CLOUDDRIVE_PORT=你的CD2端口
+      # # -----------------------------
+      # # CloudDrive2 配置（可选）
+      # # -----------------------------
+      # - CLOUDDRIVE_HOST=你的CD2主机地址
+      # - CLOUDDRIVE_PORT=你的CD2端口
 
     volumes:
       - ./_/app/data:/app/data

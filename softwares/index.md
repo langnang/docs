@@ -469,14 +469,14 @@
 
 ### 数据爬虫
 
-| Name                        | language/framework | Docker/Linux/Windows | Proxy |
-| --------------------------- | :----------------: | :------------------: | :---: |
-| [Crawlab](./Crawlab/)       |                    |       ✔️/❔/❔       |       |
-| [SpiderFlow](./SpiderFlow/) |                    |       ✔️/❔/❔       |       |
-| Scrapy                      |                    |                      |       |
-| Nutch                       |                    |       ✔️/❔/❔       |       |
-| Magnetboard                 |                    |       ✔️/❔/❔       |       |
-| feapder                     |                    |                      |       |
+| Name                          | language/framework | Docker/Linux/Windows | Proxy |
+| ----------------------------- | :----------------: | :------------------: | :---: |
+| [Crawlab](./Crawlab/)         |                    |       ✔️/❔/❔       |       |
+| [SpiderFlow](./SpiderFlow/)   |                    |       ✔️/❔/❔       |       |
+| Scrapy                        |                    |                      |       |
+| [Nutch](./Nutch/)             |                    |       ✔️/❔/❔       |       |
+| [Magnetboard](./Magnetboard/) |                    |       ✔️/❔/❔       |       |
+| Feapder                       |                    |                      |       |
 
 ### 数据可视化
 
