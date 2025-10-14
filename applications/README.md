@@ -13,28 +13,26 @@ description: 一般指直接运行于操作系统（Windows,MacOS,Linux,Android,
 - [下载之家](https://www.downza.cn/soft/)
 - [MSDN](https://msdn.itellyou.cn/)
 
-## 系统下载
+## 操作系统
 
-### Windows
-
-- Windows 7
-- Windows 8
-- Windows 10
-- Windows Server 2016
-- Windows Server 2019
-- Windows Server 2022
-
-### Linux
-
-- CentOS
-- Debine
-- Ubuntu
-- Ubuntu Server
-- fnOS
-  - <https://iso.liveupdate.fnnas.com/x86_64/trim/fnos-0.9.21-1062.iso>
-  - <thunder://QUFodHRwOi8vdGh1bmRlci5saXZldXBkYXRlLmZubmFzLmNvbTo4MDgwL3g4Nl82NC90cmltL2Zub3MtMC45LjIxLTEwNjIuaXNvWlo=>
-
-### Android
+| Name                | Docker/Linux/Win/Mac/ | Android/iPhone |
+| ------------------- | :-------------------: | :------------: |
+| Windows 7           |                       |                |
+| Windows 8           |                       |                |
+| Windows 10          |                       |                |
+| Windows Server 2016 |                       |                |
+| Windows Server 2019 |                       |                |
+| Windows Server 2022 |                       |                |
+| Linux               |                       |                |
+| CentOS              |                       |                |
+| Debine              |                       |                |
+| Ubuntu              |                       |                |
+| Ubuntu Server       |                       |                |
+| fnOS                |                       |                |
+|                     |                       |                |
+| Android             |                       |                |
+|                     |                       |                |
+|                     |                       |                |
 
 ## Windows 系统
 
