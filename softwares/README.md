@@ -2,12 +2,12 @@
 
 > 指一组计算机能识别和执行的指令，运行于电子计算机上，满足人们某种需求的信息化工具
 
-- [Softaculous](https://www.softaculous.com/)|
-- [脚本之家](https://www.jb51.net/codes/)|
-- [DKYM](https://www.dkewl.com/)|
-- [A5 下载](https://a5xiazai.com/)|
-- [洪运源码](https://www.hycodes.cn/)|
-- [YYDS 源码网](https://www.yydsym.com/)|
+- [Softaculous](https://www.softaculous.com/)
+- [脚本之家](https://www.jb51.net/codes/)
+- [DKYM](https://www.dkewl.com/)
+- [A5 下载](https://a5xiazai.com/)
+- [洪运源码](https://www.hycodes.cn/)
+- [YYDS 源码网](https://www.yydsym.com/)
 - [PHP 源码](https://phpsrc.com/)
 
 <!-- ![](https://img.shields.io/badge/Docker-blue?logo=docker) -->
@@ -466,6 +466,7 @@
 | Adminer       |                    |       ✔️/❔/❔       |  ✔️   |
 | phpmyadmin    |                    |       ✔️/❔/❔       |       |
 | whodb         |                    |       ✔️/❔/❔       |       |
+|               |                    |                      |       |
 
 ### 数据爬虫
 
@@ -477,6 +478,15 @@
 | [Nutch](./Nutch/)             |                    |       ✔️/❔/❔       |       |
 | [Magnetboard](./Magnetboard/) |                    |       ✔️/❔/❔       |       |
 | Feapder                       |                    |                      |       |
+| phpspider                     |                    |                      |       |
+| SwordCaster                   |                    |                      |       |
+| SpiderKeeper                  |                    |                      |       |
+| Scrapydweb                    |                    |                      |       |
+| Gerapy                        |                    |                      |       |
+|                               |                    |                      |       |
+|                               |                    |                      |       |
+|                               |                    |                      |       |
+|                               |                    |                      |       |
 
 ### 数据可视化
 
@@ -494,6 +504,8 @@
 | ---------- | :----------------: | :------------------: | :---: |
 | Arfooo     |                    |                      |       |
 | OpenDocMan |                    |                      |       |
+|            |                    |                      |       |
+|            |                    |                      |       |
 
 ## 日历 Calendars
 
@@ -504,6 +516,8 @@
 | LuxCal         |                    |                      |       |
 | SuperCali      |                    |                      |       |
 | Event Schedule |                    |                      |       |
+|                |                    |                      |       |
+|                |                    |                      |       |
 
 ## 电子邮件 Mails
 
@@ -512,6 +526,8 @@
 | SquirrelMail   |                    |                      |       |
 | OpenNewsletter |                    |                      |       |
 | Postfix Admin  |                    |                      |       |
+|                |                    |                      |       |
+|                |                    |                      |       |
 
 ## 电子商务 E-Commerce
 
@@ -549,6 +565,7 @@
 | QloApps                   |                    |                      |       |
 | PEEL SHOPPING             |                    |                      |       |
 | Maian Cart                |                    |                      |       |
+|                           |                    |                      |       |
 
 ## 访客留言 Guest Books
 
@@ -557,6 +574,7 @@
 | VX Guestbook     |                    |                      |       |
 | RicarGBooK       |                    |                      |       |
 | PHP Address Book |                    |                      |       |
+|                  |                    |                      |       |
 
 ## 客户支持 Customer Support
 
@@ -576,6 +594,7 @@
 | HelpDEZk        |                    |                      |       |
 | Attendize       |                    |                      |       |
 | Handesk         |                    |                      |       |
+|                 |                    |                      |       |
 
 ## 编程框架 Frameworks
 
