@@ -50,5 +50,8 @@
   <!-- - [平台·Platform] -->
   <!-- - [服务·Service] -->
   <!-- - [议题·Issue] -->
+  <!-- - [教程·Turtorial] -->
+  <!-- - [手册·Manual] -->
 
-<!-- - 简历·Vitae -->
+<!-- - 简历·Resume -->
+<!-- - 履历·Vitae -->
