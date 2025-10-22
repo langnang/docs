@@ -5,7 +5,7 @@
 ### Install for Docker
 
 ```shell
-
+docker
 ```
 
 ```yml
