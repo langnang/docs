@@ -1,14 +1,11 @@
 services:
-  portainer:
-    image: 6053537/portainer-ce:latest
+  portainer-agent:
+    image: portainer/agent
     ports:
-      - 0:9000
-    environment:
-      - TZ=Asia/Shanghai
+      - 9001:9001
     volumes:
       - //var/run/docker.sock:/var/run/docker.sock
-      - ./_/data:/data
-    restart: unless-stopped
+      - //var/lib/docker/volumes:/var/lib/docker/volumes
     networks:
       - software-network
 networks:
